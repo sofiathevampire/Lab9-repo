@@ -1,0 +1,26 @@
+# Compiled binaries
+lab9
+lab9.exe
+a.out
+a.exe
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# CMake build directory
+build/
+out/
+
+# Generated test output from test.cmd
+encrypted.bin
+decrypted.txt
+
+# VS Code machine-specific settings
+# .vscode/
+.vscode/**/*
+# ...but keep CodeRewind's session logs, since those get submitted for review
+!.vscode/keylog/
+!.vscode/keylog/**
