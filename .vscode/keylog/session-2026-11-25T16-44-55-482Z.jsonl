@@ -1,0 +1,537 @@
+{"t":1795625095490,"file":"","type":"session-start"}
+{"t":1795625095583,"file":"Hander.hpp","type":"insert","rangeStart":7,"rangeEnd":7,"text":" ","textLength":1,"docVersion":13}
+{"t":1795625095890,"file":"Hander.hpp","type":"insert","rangeStart":8,"rangeEnd":8,"text":"o","textLength":1,"docVersion":14}
+{"t":1795625095893,"file":"Hander.hpp","type":"insert","rangeStart":9,"rangeEnd":9,"text":"n","textLength":1,"docVersion":15}
+{"t":1795625095904,"file":"Hander.hpp","type":"insert","rangeStart":10,"rangeEnd":10,"text":"c","textLength":1,"docVersion":16}
+{"t":1795625096084,"file":"Hander.hpp","type":"insert","rangeStart":11,"rangeEnd":11,"text":"e","textLength":1,"docVersion":17}
+{"t":1795625096132,"file":"Crypto.hpp","type":"file-preexisting","size":1275}
+{"t":1795625096132,"file":"Crypto.cpp","type":"file-preexisting","size":427}
+{"t":1795625096132,"file":"CommandLineParser.hpp","type":"file-preexisting","size":588}
+{"t":1795625096132,"file":"CommandLineParser.cpp","type":"file-preexisting","size":3679}
+{"t":1795625096132,"file":"CMakeLists.txt","type":"file-preexisting","size":887}
+{"t":1795625096132,"file":"inputFile.txt","type":"file-preexisting","size":61}
+{"t":1795625096132,"file":"Hander.hpp","type":"file-preexisting","size":0}
+{"t":1795625096132,"file":"Request.hpp","type":"file-preexisting","size":2159}
+{"t":1795625096132,"file":"test.cmd","type":"file-preexisting","size":1100}
+{"t":1795625096132,"file":"main.cpp","type":"file-preexisting","size":260}
+{"t":1795625096132,"file":".coderewindignore","type":"file-preexisting","size":11}
+{"t":1795625096132,"file":".coderewind-record","type":"file-preexisting","size":0}
+{"t":1795625096132,"file":".gitignore","type":"file-preexisting","size":389}
+{"t":1795625096132,"file":"des/DesCipher.hpp","type":"file-preexisting","size":1954}
+{"t":1795625096132,"file":"des/DesCipher.cpp","type":"file-preexisting","size":3971}
+{"t":1795625096233,"file":"des/d3des.h","type":"file-preexisting","size":4904}
+{"t":1795625096235,"file":"des/d3des.c","type":"file-preexisting","size":20709}
+{"t":1795625098043,"file":"Hander.hpp","type":"insert","rangeStart":12,"rangeEnd":12,"text":"\r\n","textLength":2,"docVersion":18}
+{"t":1795625098738,"file":"Hander.hpp","type":"file-save"}
+{"t":1795625098755,"file":"Hander.hpp","type":"insert","rangeStart":14,"rangeEnd":14,"text":"#","textLength":1,"docVersion":19}
+{"t":1795625099072,"file":"Hander.hpp","type":"insert","rangeStart":15,"rangeEnd":15,"text":"i","textLength":1,"docVersion":20}
+{"t":1795625099104,"file":"Hander.hpp","type":"insert","rangeStart":16,"rangeEnd":16,"text":"n","textLength":1,"docVersion":21}
+{"t":1795625099244,"file":"Hander.hpp","type":"insert","rangeStart":17,"rangeEnd":17,"text":"c","textLength":1,"docVersion":22}
+{"t":1795625099370,"file":"Hander.hpp","type":"insert","rangeStart":18,"rangeEnd":18,"text":"l","textLength":1,"docVersion":23}
+{"t":1795625099487,"file":"Hander.hpp","type":"insert","rangeStart":19,"rangeEnd":19,"text":"u","textLength":1,"docVersion":24}
+{"t":1795625099618,"file":"Hander.hpp","type":"insert","rangeStart":20,"rangeEnd":20,"text":"d","textLength":1,"docVersion":25}
+{"t":1795625099664,"file":"Hander.hpp","type":"insert","rangeStart":21,"rangeEnd":21,"text":"e","textLength":1,"docVersion":26}
+{"t":1795625104890,"file":"Hander.hpp","type":"insert","rangeStart":22,"rangeEnd":22,"text":" ","textLength":1,"docVersion":27}
+{"t":1795625105276,"file":"Hander.hpp","type":"insert","rangeStart":23,"rangeEnd":23,"text":"\"\"","textLength":2,"docVersion":28}
+{"t":1795625105708,"file":"Hander.hpp","type":"insert","rangeStart":24,"rangeEnd":24,"text":"R","textLength":1,"docVersion":29}
+{"t":1795625105913,"file":"Hander.hpp","type":"insert","rangeStart":25,"rangeEnd":25,"text":"e","textLength":1,"docVersion":30}
+{"t":1795625106074,"file":"Hander.hpp","type":"insert","rangeStart":26,"rangeEnd":26,"text":"q","textLength":1,"docVersion":31}
+{"t":1795625106278,"file":"Hander.hpp","type":"insert","rangeStart":27,"rangeEnd":27,"text":"u","textLength":1,"docVersion":32}
+{"t":1795625106544,"file":"Hander.hpp","type":"insert","rangeStart":28,"rangeEnd":28,"text":"e","textLength":1,"docVersion":33}
+{"t":1795625106729,"file":"Hander.hpp","type":"insert","rangeStart":29,"rangeEnd":29,"text":"s","textLength":1,"docVersion":34}
+{"t":1795625106796,"file":"Hander.hpp","type":"insert","rangeStart":30,"rangeEnd":30,"text":"t","textLength":1,"docVersion":35}
+{"t":1795625106879,"file":"Hander.hpp","type":"insert","rangeStart":31,"rangeEnd":31,"text":".","textLength":1,"docVersion":36}
+{"t":1795625107105,"file":"Hander.hpp","type":"insert","rangeStart":32,"rangeEnd":32,"text":"h","textLength":1,"docVersion":37}
+{"t":1795625107255,"file":"Hander.hpp","type":"insert","rangeStart":33,"rangeEnd":33,"text":"p","textLength":1,"docVersion":38}
+{"t":1795625107392,"file":"Hander.hpp","type":"insert","rangeStart":34,"rangeEnd":34,"text":"p","textLength":1,"docVersion":39}
+{"t":1795625107617,"file":"Hander.hpp","type":"replace","rangeStart":35,"rangeEnd":36,"text":"\"","textLength":1,"docVersion":40}
+{"t":1795625108327,"file":"Hander.hpp","type":"insert","rangeStart":36,"rangeEnd":36,"text":"\r\n","textLength":2,"docVersion":41}
+{"t":1795625108469,"file":"Hander.hpp","type":"insert","rangeStart":38,"rangeEnd":38,"text":"\r\n","textLength":2,"docVersion":42}
+{"t":1795625108633,"file":"Hander.hpp","type":"insert","rangeStart":40,"rangeEnd":40,"text":"c","textLength":1,"docVersion":43}
+{"t":1795625108732,"file":"Hander.hpp","type":"insert","rangeStart":41,"rangeEnd":41,"text":"l","textLength":1,"docVersion":44}
+{"t":1795625108850,"file":"Hander.hpp","type":"insert","rangeStart":42,"rangeEnd":42,"text":"a","textLength":1,"docVersion":45}
+{"t":1795625108881,"file":"Hander.hpp","type":"insert","rangeStart":43,"rangeEnd":43,"text":"s","textLength":1,"docVersion":46}
+{"t":1795625109054,"file":"Hander.hpp","type":"insert","rangeStart":44,"rangeEnd":44,"text":"s","textLength":1,"docVersion":47}
+{"t":1795625109098,"file":"Hander.hpp","type":"insert","rangeStart":45,"rangeEnd":45,"text":" ","textLength":1,"docVersion":48}
+{"t":1795625109306,"file":"Hander.hpp","type":"insert","rangeStart":46,"rangeEnd":46,"text":"H","textLength":1,"docVersion":49}
+{"t":1795625109465,"file":"Hander.hpp","type":"insert","rangeStart":47,"rangeEnd":47,"text":"a","textLength":1,"docVersion":50}
+{"t":1795625109547,"file":"Hander.hpp","type":"insert","rangeStart":48,"rangeEnd":48,"text":"n","textLength":1,"docVersion":51}
+{"t":1795625109639,"file":"Hander.hpp","type":"insert","rangeStart":49,"rangeEnd":49,"text":"d","textLength":1,"docVersion":52}
+{"t":1795625110013,"file":"Hander.hpp","type":"insert","rangeStart":50,"rangeEnd":50,"text":"l","textLength":1,"docVersion":53}
+{"t":1795625110080,"file":"Hander.hpp","type":"insert","rangeStart":51,"rangeEnd":51,"text":"e","textLength":1,"docVersion":54}
+{"t":1795625110150,"file":"Hander.hpp","type":"insert","rangeStart":52,"rangeEnd":52,"text":"r","textLength":1,"docVersion":55}
+{"t":1795625110265,"file":"Hander.hpp","type":"insert","rangeStart":53,"rangeEnd":53,"text":" ","textLength":1,"docVersion":56}
+{"t":1795625110446,"file":"Hander.hpp","type":"insert","rangeStart":54,"rangeEnd":54,"text":"{}","textLength":2,"docVersion":57}
+{"t":1795625110658,"file":"Hander.hpp","type":"insert","rangeStart":55,"rangeEnd":55,"text":"\r\n    \r\n","textLength":8,"docVersion":58}
+{"t":1795625111748,"file":"Hander.hpp","type":"insert","rangeStart":61,"rangeEnd":61,"text":"p","textLength":1,"docVersion":59}
+{"t":1795625111829,"file":"Hander.hpp","type":"insert","rangeStart":62,"rangeEnd":62,"text":"r","textLength":1,"docVersion":60}
+{"t":1795625111966,"file":"Hander.hpp","type":"insert","rangeStart":63,"rangeEnd":63,"text":"o","textLength":1,"docVersion":61}
+{"t":1795625112042,"file":"Hander.hpp","type":"insert","rangeStart":64,"rangeEnd":64,"text":"t","textLength":1,"docVersion":62}
+{"t":1795625112132,"file":"Hander.hpp","type":"insert","rangeStart":65,"rangeEnd":65,"text":"e","textLength":1,"docVersion":63}
+{"t":1795625112347,"file":"Hander.hpp","type":"insert","rangeStart":66,"rangeEnd":66,"text":"c","textLength":1,"docVersion":64}
+{"t":1795625112508,"file":"Hander.hpp","type":"insert","rangeStart":67,"rangeEnd":67,"text":"t","textLength":1,"docVersion":65}
+{"t":1795625112590,"file":"Hander.hpp","type":"insert","rangeStart":68,"rangeEnd":68,"text":"e","textLength":1,"docVersion":66}
+{"t":1795625112793,"file":"Hander.hpp","type":"insert","rangeStart":69,"rangeEnd":69,"text":"d","textLength":1,"docVersion":67}
+{"t":1795625113090,"file":"Hander.hpp","type":"insert","rangeStart":70,"rangeEnd":70,"text":":","textLength":1,"docVersion":68}
+{"t":1795625113307,"file":"Hander.hpp","type":"insert","rangeStart":71,"rangeEnd":71,"text":"\r\n    ","textLength":6,"docVersion":69}
+{"t":1795625113597,"file":"Hander.hpp","type":"insert","rangeStart":77,"rangeEnd":77,"text":"H","textLength":1,"docVersion":70}
+{"t":1795625113687,"file":"Hander.hpp","type":"insert","rangeStart":78,"rangeEnd":78,"text":"a","textLength":1,"docVersion":71}
+{"t":1795625113804,"file":"Hander.hpp","type":"insert","rangeStart":79,"rangeEnd":79,"text":"n","textLength":1,"docVersion":72}
+{"t":1795625113895,"file":"Hander.hpp","type":"insert","rangeStart":80,"rangeEnd":80,"text":"d","textLength":1,"docVersion":73}
+{"t":1795625114261,"file":"Hander.hpp","type":"insert","rangeStart":81,"rangeEnd":81,"text":"l","textLength":1,"docVersion":74}
+{"t":1795625114378,"file":"Hander.hpp","type":"insert","rangeStart":82,"rangeEnd":82,"text":"e","textLength":1,"docVersion":75}
+{"t":1795625114470,"file":"Hander.hpp","type":"insert","rangeStart":83,"rangeEnd":83,"text":"r","textLength":1,"docVersion":76}
+{"t":1795625114652,"file":"Hander.hpp","type":"insert","rangeStart":84,"rangeEnd":84,"text":" ","textLength":1,"docVersion":77}
+{"t":1795625114958,"file":"Hander.hpp","type":"delete","rangeStart":84,"rangeEnd":85,"text":"","textLength":0,"docVersion":78}
+{"t":1795625115207,"file":"Hander.hpp","type":"insert","rangeStart":84,"rangeEnd":84,"text":"*","textLength":1,"docVersion":79}
+{"t":1795625115409,"file":"Hander.hpp","type":"insert","rangeStart":85,"rangeEnd":85,"text":" ","textLength":1,"docVersion":80}
+{"t":1795625115488,"file":"Hander.hpp","type":"insert","rangeStart":86,"rangeEnd":86,"text":"n","textLength":1,"docVersion":81}
+{"t":1795625115576,"file":"Hander.hpp","type":"insert","rangeStart":87,"rangeEnd":87,"text":"e","textLength":1,"docVersion":82}
+{"t":1795625115840,"file":"Hander.hpp","type":"insert","rangeStart":88,"rangeEnd":88,"text":"x","textLength":1,"docVersion":83}
+{"t":1795625115963,"file":"Hander.hpp","type":"insert","rangeStart":89,"rangeEnd":89,"text":"t","textLength":1,"docVersion":84}
+{"t":1795625116059,"file":"Hander.hpp","type":"insert","rangeStart":90,"rangeEnd":90,"text":";","textLength":1,"docVersion":85}
+{"t":1795625116875,"file":"Hander.hpp","type":"insert","rangeStart":91,"rangeEnd":91,"text":"\r\n    ","textLength":6,"docVersion":86}
+{"t":1795625117048,"file":"Hander.hpp","type":"insert","rangeStart":97,"rangeEnd":97,"text":"\r\n    ","textLength":6,"docVersion":87}
+{"t":1795625117048,"file":"Hander.hpp","type":"delete","rangeStart":93,"rangeEnd":97,"text":"","textLength":0,"docVersion":87}
+{"t":1795625117290,"file":"Hander.hpp","type":"insert","rangeStart":99,"rangeEnd":99,"text":"p","textLength":1,"docVersion":88}
+{"t":1795625117353,"file":"Hander.hpp","type":"insert","rangeStart":100,"rangeEnd":100,"text":"u","textLength":1,"docVersion":89}
+{"t":1795625117543,"file":"Hander.hpp","type":"insert","rangeStart":101,"rangeEnd":101,"text":"b","textLength":1,"docVersion":90}
+{"t":1795625117631,"file":"Hander.hpp","type":"insert","rangeStart":102,"rangeEnd":102,"text":"l","textLength":1,"docVersion":91}
+{"t":1795625117724,"file":"Hander.hpp","type":"insert","rangeStart":103,"rangeEnd":103,"text":"i","textLength":1,"docVersion":92}
+{"t":1795625117799,"file":"Hander.hpp","type":"insert","rangeStart":104,"rangeEnd":104,"text":"c","textLength":1,"docVersion":93}
+{"t":1795625117998,"file":"Hander.hpp","type":"insert","rangeStart":105,"rangeEnd":105,"text":":","textLength":1,"docVersion":94}
+{"t":1795625118315,"file":"Hander.hpp","type":"insert","rangeStart":106,"rangeEnd":106,"text":"\r\n    ","textLength":6,"docVersion":95}
+{"t":1795625118922,"file":"Hander.hpp","type":"insert","rangeStart":112,"rangeEnd":112,"text":"H","textLength":1,"docVersion":96}
+{"t":1795625119082,"file":"Hander.hpp","type":"insert","rangeStart":113,"rangeEnd":113,"text":"a","textLength":1,"docVersion":97}
+{"t":1795625119163,"file":"Hander.hpp","type":"insert","rangeStart":114,"rangeEnd":114,"text":"n","textLength":1,"docVersion":98}
+{"t":1795625119301,"file":"Hander.hpp","type":"insert","rangeStart":115,"rangeEnd":115,"text":"d","textLength":1,"docVersion":99}
+{"t":1795625119405,"file":"Hander.hpp","type":"insert","rangeStart":116,"rangeEnd":116,"text":"l","textLength":1,"docVersion":100}
+{"t":1795625119537,"file":"Hander.hpp","type":"insert","rangeStart":117,"rangeEnd":117,"text":"e","textLength":1,"docVersion":101}
+{"t":1795625119609,"file":"Hander.hpp","type":"insert","rangeStart":118,"rangeEnd":118,"text":"r","textLength":1,"docVersion":102}
+{"t":1795625119795,"file":"Hander.hpp","type":"insert","rangeStart":119,"rangeEnd":119,"text":"()","textLength":2,"docVersion":103}
+{"t":1795625119987,"file":"Hander.hpp","type":"replace","rangeStart":120,"rangeEnd":121,"text":")","textLength":1,"docVersion":104}
+{"t":1795625120231,"file":"Hander.hpp","type":"insert","rangeStart":121,"rangeEnd":121,"text":";","textLength":1,"docVersion":105}
+{"t":1795625120898,"file":"Hander.hpp","type":"insert","rangeStart":122,"rangeEnd":122,"text":"\r\n    ","textLength":6,"docVersion":106}
+{"t":1795625121345,"file":"Hander.hpp","type":"insert","rangeStart":128,"rangeEnd":128,"text":"v","textLength":1,"docVersion":107}
+{"t":1795625121413,"file":"Hander.hpp","type":"insert","rangeStart":129,"rangeEnd":129,"text":"i","textLength":1,"docVersion":108}
+{"t":1795625121569,"file":"Hander.hpp","type":"insert","rangeStart":130,"rangeEnd":130,"text":"r","textLength":1,"docVersion":109}
+{"t":1795625121737,"file":"Hander.hpp","type":"insert","rangeStart":131,"rangeEnd":131,"text":"t","textLength":1,"docVersion":110}
+{"t":1795625121793,"file":"Hander.hpp","type":"insert","rangeStart":132,"rangeEnd":132,"text":"u","textLength":1,"docVersion":111}
+{"t":1795625121904,"file":"Hander.hpp","type":"insert","rangeStart":133,"rangeEnd":133,"text":"a","textLength":1,"docVersion":112}
+{"t":1795625121986,"file":"Hander.hpp","type":"insert","rangeStart":134,"rangeEnd":134,"text":"l","textLength":1,"docVersion":113}
+{"t":1795625122092,"file":"Hander.hpp","type":"insert","rangeStart":135,"rangeEnd":135,"text":" ","textLength":1,"docVersion":114}
+{"t":1795625122997,"file":"Hander.hpp","type":"insert","rangeStart":136,"rangeEnd":136,"text":"!","textLength":1,"docVersion":115}
+{"t":1795625123259,"file":"Hander.hpp","type":"delete","rangeStart":136,"rangeEnd":137,"text":"","textLength":0,"docVersion":116}
+{"t":1795625123353,"file":"Hander.hpp","type":"insert","rangeStart":136,"rangeEnd":136,"text":"~","textLength":1,"docVersion":117}
+{"t":1795625123763,"file":"Hander.hpp","type":"insert","rangeStart":137,"rangeEnd":137,"text":"H","textLength":1,"docVersion":118}
+{"t":1795625124012,"file":"Hander.hpp","type":"insert","rangeStart":138,"rangeEnd":138,"text":"a","textLength":1,"docVersion":119}
+{"t":1795625124079,"file":"Hander.hpp","type":"insert","rangeStart":139,"rangeEnd":139,"text":"n","textLength":1,"docVersion":120}
+{"t":1795625124380,"file":"Hander.hpp","type":"insert","rangeStart":140,"rangeEnd":140,"text":"d","textLength":1,"docVersion":121}
+{"t":1795625124507,"file":"Hander.hpp","type":"insert","rangeStart":141,"rangeEnd":141,"text":"l","textLength":1,"docVersion":122}
+{"t":1795625124641,"file":"Hander.hpp","type":"insert","rangeStart":142,"rangeEnd":142,"text":"e","textLength":1,"docVersion":123}
+{"t":1795625124724,"file":"Hander.hpp","type":"insert","rangeStart":143,"rangeEnd":143,"text":"r","textLength":1,"docVersion":124}
+{"t":1795625124983,"file":"Hander.hpp","type":"insert","rangeStart":144,"rangeEnd":144,"text":"()","textLength":2,"docVersion":125}
+{"t":1795625125149,"file":"Hander.hpp","type":"replace","rangeStart":145,"rangeEnd":146,"text":")","textLength":1,"docVersion":126}
+{"t":1795625125387,"file":"Hander.hpp","type":"insert","rangeStart":146,"rangeEnd":146,"text":";","textLength":1,"docVersion":127}
+{"t":1795625126085,"file":"Hander.hpp","type":"insert","rangeStart":147,"rangeEnd":147,"text":"\r\n    ","textLength":6,"docVersion":128}
+{"t":1795625126545,"file":"Hander.hpp","type":"insert","rangeStart":153,"rangeEnd":153,"text":"v","textLength":1,"docVersion":129}
+{"t":1795625126632,"file":"Hander.hpp","type":"insert","rangeStart":154,"rangeEnd":154,"text":"o","textLength":1,"docVersion":130}
+{"t":1795625126711,"file":"Hander.hpp","type":"insert","rangeStart":155,"rangeEnd":155,"text":"i","textLength":1,"docVersion":131}
+{"t":1795625126818,"file":"Hander.hpp","type":"insert","rangeStart":156,"rangeEnd":156,"text":"d","textLength":1,"docVersion":132}
+{"t":1795625127112,"file":"Hander.hpp","type":"insert","rangeStart":157,"rangeEnd":157,"text":" ","textLength":1,"docVersion":133}
+{"t":1795625127261,"file":"Hander.hpp","type":"insert","rangeStart":158,"rangeEnd":158,"text":"s","textLength":1,"docVersion":134}
+{"t":1795625127309,"file":"Hander.hpp","type":"insert","rangeStart":159,"rangeEnd":159,"text":"e","textLength":1,"docVersion":135}
+{"t":1795625127411,"file":"Hander.hpp","type":"insert","rangeStart":160,"rangeEnd":160,"text":"t","textLength":1,"docVersion":136}
+{"t":1795625127679,"file":"Hander.hpp","type":"insert","rangeStart":161,"rangeEnd":161,"text":"N","textLength":1,"docVersion":137}
+{"t":1795625127791,"file":"Hander.hpp","type":"insert","rangeStart":162,"rangeEnd":162,"text":"e","textLength":1,"docVersion":138}
+{"t":1795625127971,"file":"Hander.hpp","type":"insert","rangeStart":163,"rangeEnd":163,"text":"x","textLength":1,"docVersion":139}
+{"t":1795625128139,"file":"Hander.hpp","type":"insert","rangeStart":164,"rangeEnd":164,"text":"t","textLength":1,"docVersion":140}
+{"t":1795625128414,"file":"Hander.hpp","type":"insert","rangeStart":165,"rangeEnd":165,"text":"()","textLength":2,"docVersion":141}
+{"t":1795625128896,"file":"Hander.hpp","type":"insert","rangeStart":166,"rangeEnd":166,"text":"H","textLength":1,"docVersion":142}
+{"t":1795625129045,"file":"Hander.hpp","type":"insert","rangeStart":167,"rangeEnd":167,"text":"a","textLength":1,"docVersion":143}
+{"t":1795625129129,"file":"Hander.hpp","type":"insert","rangeStart":168,"rangeEnd":168,"text":"n","textLength":1,"docVersion":144}
+{"t":1795625129219,"file":"Hander.hpp","type":"insert","rangeStart":169,"rangeEnd":169,"text":"d","textLength":1,"docVersion":145}
+{"t":1795625129419,"file":"Hander.hpp","type":"insert","rangeStart":170,"rangeEnd":170,"text":"l","textLength":1,"docVersion":146}
+{"t":1795625129538,"file":"Hander.hpp","type":"insert","rangeStart":171,"rangeEnd":171,"text":"e","textLength":1,"docVersion":147}
+{"t":1795625129611,"file":"Hander.hpp","type":"insert","rangeStart":172,"rangeEnd":172,"text":"r","textLength":1,"docVersion":148}
+{"t":1795625129787,"file":"Hander.hpp","type":"insert","rangeStart":173,"rangeEnd":173,"text":" ","textLength":1,"docVersion":149}
+{"t":1795625130797,"file":"Hander.hpp","type":"delete","rangeStart":173,"rangeEnd":174,"text":"","textLength":0,"docVersion":150}
+{"t":1795625131028,"file":"Hander.hpp","type":"insert","rangeStart":173,"rangeEnd":173,"text":"*","textLength":1,"docVersion":151}
+{"t":1795625131268,"file":"Hander.hpp","type":"insert","rangeStart":174,"rangeEnd":174,"text":" ","textLength":1,"docVersion":152}
+{"t":1795625131404,"file":"Hander.hpp","type":"insert","rangeStart":175,"rangeEnd":175,"text":"n","textLength":1,"docVersion":153}
+{"t":1795625131495,"file":"Hander.hpp","type":"insert","rangeStart":176,"rangeEnd":176,"text":"e","textLength":1,"docVersion":154}
+{"t":1795625131747,"file":"Hander.hpp","type":"insert","rangeStart":177,"rangeEnd":177,"text":"x","textLength":1,"docVersion":155}
+{"t":1795625131840,"file":"Hander.hpp","type":"insert","rangeStart":178,"rangeEnd":178,"text":"t","textLength":1,"docVersion":156}
+{"t":1795625132088,"file":"Hander.hpp","type":"replace","rangeStart":179,"rangeEnd":180,"text":")","textLength":1,"docVersion":157}
+{"t":1795625132904,"file":"Hander.hpp","type":"insert","rangeStart":180,"rangeEnd":180,"text":";","textLength":1,"docVersion":158}
+{"t":1795625133202,"file":"Hander.hpp","type":"insert","rangeStart":181,"rangeEnd":181,"text":"\r\n    ","textLength":6,"docVersion":159}
+{"t":1795625135280,"file":"Hander.hpp","type":"insert","rangeStart":187,"rangeEnd":187,"text":"b","textLength":1,"docVersion":160}
+{"t":1795625135459,"file":"Hander.hpp","type":"insert","rangeStart":188,"rangeEnd":188,"text":"o","textLength":1,"docVersion":161}
+{"t":1795625135621,"file":"Hander.hpp","type":"insert","rangeStart":189,"rangeEnd":189,"text":"o","textLength":1,"docVersion":162}
+{"t":1795625135791,"file":"Hander.hpp","type":"insert","rangeStart":190,"rangeEnd":190,"text":"l","textLength":1,"docVersion":163}
+{"t":1795625135862,"file":"Hander.hpp","type":"insert","rangeStart":191,"rangeEnd":191,"text":" ","textLength":1,"docVersion":164}
+{"t":1795625136119,"file":"Hander.hpp","type":"insert","rangeStart":192,"rangeEnd":192,"text":"c","textLength":1,"docVersion":165}
+{"t":1795625136250,"file":"Hander.hpp","type":"insert","rangeStart":193,"rangeEnd":193,"text":"a","textLength":1,"docVersion":166}
+{"t":1795625136344,"file":"Hander.hpp","type":"insert","rangeStart":194,"rangeEnd":194,"text":"l","textLength":1,"docVersion":167}
+{"t":1795625136481,"file":"Hander.hpp","type":"insert","rangeStart":195,"rangeEnd":195,"text":"l","textLength":1,"docVersion":168}
+{"t":1795625136693,"file":"Hander.hpp","type":"insert","rangeStart":196,"rangeEnd":196,"text":"N","textLength":1,"docVersion":169}
+{"t":1795625136735,"file":"Hander.hpp","type":"insert","rangeStart":197,"rangeEnd":197,"text":"e","textLength":1,"docVersion":170}
+{"t":1795625136950,"file":"Hander.hpp","type":"insert","rangeStart":198,"rangeEnd":198,"text":"x","textLength":1,"docVersion":171}
+{"t":1795625137057,"file":"Hander.hpp","type":"insert","rangeStart":199,"rangeEnd":199,"text":"t","textLength":1,"docVersion":172}
+{"t":1795625137314,"file":"Hander.hpp","type":"insert","rangeStart":200,"rangeEnd":200,"text":"()","textLength":2,"docVersion":173}
+{"t":1795625137660,"file":"Hander.hpp","type":"insert","rangeStart":201,"rangeEnd":201,"text":"R","textLength":1,"docVersion":174}
+{"t":1795625137773,"file":"Hander.hpp","type":"insert","rangeStart":202,"rangeEnd":202,"text":"e","textLength":1,"docVersion":175}
+{"t":1795625137893,"file":"Hander.hpp","type":"insert","rangeStart":203,"rangeEnd":203,"text":"q","textLength":1,"docVersion":176}
+{"t":1795625138030,"file":"Hander.hpp","type":"insert","rangeStart":204,"rangeEnd":204,"text":"u","textLength":1,"docVersion":177}
+{"t":1795625138079,"file":"Hander.hpp","type":"insert","rangeStart":205,"rangeEnd":205,"text":"e","textLength":1,"docVersion":178}
+{"t":1795625138260,"file":"Hander.hpp","type":"insert","rangeStart":206,"rangeEnd":206,"text":"s","textLength":1,"docVersion":179}
+{"t":1795625138372,"file":"Hander.hpp","type":"insert","rangeStart":207,"rangeEnd":207,"text":"t","textLength":1,"docVersion":180}
+{"t":1795625139044,"file":"Hander.hpp","type":"insert","rangeStart":208,"rangeEnd":208,"text":"&","textLength":1,"docVersion":181}
+{"t":1795625139210,"file":"Hander.hpp","type":"insert","rangeStart":209,"rangeEnd":209,"text":" ","textLength":1,"docVersion":182}
+{"t":1795625139329,"file":"Hander.hpp","type":"insert","rangeStart":210,"rangeEnd":210,"text":"r","textLength":1,"docVersion":183}
+{"t":1795625139411,"file":"Hander.hpp","type":"insert","rangeStart":211,"rangeEnd":211,"text":"e","textLength":1,"docVersion":184}
+{"t":1795625139549,"file":"Hander.hpp","type":"insert","rangeStart":212,"rangeEnd":212,"text":"q","textLength":1,"docVersion":185}
+{"t":1795625139691,"file":"Hander.hpp","type":"insert","rangeStart":213,"rangeEnd":213,"text":"u","textLength":1,"docVersion":186}
+{"t":1795625139825,"file":"Hander.hpp","type":"insert","rangeStart":214,"rangeEnd":214,"text":"e","textLength":1,"docVersion":187}
+{"t":1795625139895,"file":"Hander.hpp","type":"insert","rangeStart":215,"rangeEnd":215,"text":"s","textLength":1,"docVersion":188}
+{"t":1795625140030,"file":"Hander.hpp","type":"insert","rangeStart":216,"rangeEnd":216,"text":"t","textLength":1,"docVersion":189}
+{"t":1795625140350,"file":"Hander.hpp","type":"replace","rangeStart":217,"rangeEnd":218,"text":")","textLength":1,"docVersion":190}
+{"t":1795625140633,"file":"Hander.hpp","type":"insert","rangeStart":218,"rangeEnd":218,"text":";","textLength":1,"docVersion":191}
+{"t":1795625141344,"file":"Hander.hpp","type":"insert","rangeStart":219,"rangeEnd":219,"text":"\r\n    ","textLength":6,"docVersion":192}
+{"t":1795625141716,"file":"Hander.hpp","type":"insert","rangeStart":225,"rangeEnd":225,"text":"v","textLength":1,"docVersion":193}
+{"t":1795625141792,"file":"Hander.hpp","type":"insert","rangeStart":226,"rangeEnd":226,"text":"i","textLength":1,"docVersion":194}
+{"t":1795625141955,"file":"Hander.hpp","type":"insert","rangeStart":227,"rangeEnd":227,"text":"r","textLength":1,"docVersion":195}
+{"t":1795625142113,"file":"Hander.hpp","type":"insert","rangeStart":228,"rangeEnd":228,"text":"t","textLength":1,"docVersion":196}
+{"t":1795625142200,"file":"Hander.hpp","type":"insert","rangeStart":229,"rangeEnd":229,"text":"u","textLength":1,"docVersion":197}
+{"t":1795625142341,"file":"Hander.hpp","type":"insert","rangeStart":230,"rangeEnd":230,"text":"a","textLength":1,"docVersion":198}
+{"t":1795625142404,"file":"Hander.hpp","type":"insert","rangeStart":231,"rangeEnd":231,"text":"l","textLength":1,"docVersion":199}
+{"t":1795625142495,"file":"Hander.hpp","type":"insert","rangeStart":232,"rangeEnd":232,"text":" ","textLength":1,"docVersion":200}
+{"t":1795625142781,"file":"Hander.hpp","type":"insert","rangeStart":233,"rangeEnd":233,"text":"b","textLength":1,"docVersion":201}
+{"t":1795625142931,"file":"Hander.hpp","type":"insert","rangeStart":234,"rangeEnd":234,"text":"o","textLength":1,"docVersion":202}
+{"t":1795625143110,"file":"Hander.hpp","type":"insert","rangeStart":235,"rangeEnd":235,"text":"o","textLength":1,"docVersion":203}
+{"t":1795625143305,"file":"Hander.hpp","type":"insert","rangeStart":236,"rangeEnd":236,"text":"l","textLength":1,"docVersion":204}
+{"t":1795625143379,"file":"Hander.hpp","type":"insert","rangeStart":237,"rangeEnd":237,"text":" ","textLength":1,"docVersion":205}
+{"t":1795625143512,"file":"Hander.hpp","type":"insert","rangeStart":238,"rangeEnd":238,"text":"h","textLength":1,"docVersion":206}
+{"t":1795625143593,"file":"Hander.hpp","type":"insert","rangeStart":239,"rangeEnd":239,"text":"a","textLength":1,"docVersion":207}
+{"t":1795625143696,"file":"Hander.hpp","type":"insert","rangeStart":240,"rangeEnd":240,"text":"n","textLength":1,"docVersion":208}
+{"t":1795625143750,"file":"Hander.hpp","type":"insert","rangeStart":241,"rangeEnd":241,"text":"d","textLength":1,"docVersion":209}
+{"t":1795625143893,"file":"Hander.hpp","type":"insert","rangeStart":242,"rangeEnd":242,"text":"l","textLength":1,"docVersion":210}
+{"t":1795625143981,"file":"Hander.hpp","type":"insert","rangeStart":243,"rangeEnd":243,"text":"e","textLength":1,"docVersion":211}
+{"t":1795625144262,"file":"Hander.hpp","type":"insert","rangeStart":244,"rangeEnd":244,"text":"()","textLength":2,"docVersion":212}
+{"t":1795625144994,"file":"Hander.hpp","type":"insert","rangeStart":245,"rangeEnd":245,"text":"R","textLength":1,"docVersion":213}
+{"t":1795625145068,"file":"Hander.hpp","type":"insert","rangeStart":246,"rangeEnd":246,"text":"e","textLength":1,"docVersion":214}
+{"t":1795625145256,"file":"Hander.hpp","type":"insert","rangeStart":247,"rangeEnd":247,"text":"q","textLength":1,"docVersion":215}
+{"t":1795625145366,"file":"Hander.hpp","type":"insert","rangeStart":248,"rangeEnd":248,"text":"u","textLength":1,"docVersion":216}
+{"t":1795625145447,"file":"Hander.hpp","type":"insert","rangeStart":249,"rangeEnd":249,"text":"e","textLength":1,"docVersion":217}
+{"t":1795625145617,"file":"Hander.hpp","type":"insert","rangeStart":250,"rangeEnd":250,"text":"s","textLength":1,"docVersion":218}
+{"t":1795625145736,"file":"Hander.hpp","type":"insert","rangeStart":251,"rangeEnd":251,"text":"t","textLength":1,"docVersion":219}
+{"t":1795625146917,"file":"Hander.hpp","type":"insert","rangeStart":252,"rangeEnd":252,"text":"&","textLength":1,"docVersion":220}
+{"t":1795625147127,"file":"Hander.hpp","type":"insert","rangeStart":253,"rangeEnd":253,"text":" ","textLength":1,"docVersion":221}
+{"t":1795625147231,"file":"Hander.hpp","type":"insert","rangeStart":254,"rangeEnd":254,"text":"r","textLength":1,"docVersion":222}
+{"t":1795625147304,"file":"Hander.hpp","type":"insert","rangeStart":255,"rangeEnd":255,"text":"e","textLength":1,"docVersion":223}
+{"t":1795625147517,"file":"Hander.hpp","type":"insert","rangeStart":256,"rangeEnd":256,"text":"q","textLength":1,"docVersion":224}
+{"t":1795625147739,"file":"Hander.hpp","type":"insert","rangeStart":257,"rangeEnd":257,"text":"u","textLength":1,"docVersion":225}
+{"t":1795625147821,"file":"Hander.hpp","type":"insert","rangeStart":258,"rangeEnd":258,"text":"e","textLength":1,"docVersion":226}
+{"t":1795625147915,"file":"Hander.hpp","type":"insert","rangeStart":259,"rangeEnd":259,"text":"s","textLength":1,"docVersion":227}
+{"t":1795625148012,"file":"Hander.hpp","type":"insert","rangeStart":260,"rangeEnd":260,"text":"t","textLength":1,"docVersion":228}
+{"t":1795625148305,"file":"Hander.hpp","type":"replace","rangeStart":261,"rangeEnd":262,"text":")","textLength":1,"docVersion":229}
+{"t":1795625148487,"file":"Hander.hpp","type":"insert","rangeStart":262,"rangeEnd":262,"text":" ","textLength":1,"docVersion":230}
+{"t":1795625148618,"file":"Hander.hpp","type":"insert","rangeStart":263,"rangeEnd":263,"text":"=","textLength":1,"docVersion":231}
+{"t":1795625148777,"file":"Hander.hpp","type":"insert","rangeStart":264,"rangeEnd":264,"text":" ","textLength":1,"docVersion":232}
+{"t":1795625148887,"file":"Hander.hpp","type":"insert","rangeStart":265,"rangeEnd":265,"text":"0","textLength":1,"docVersion":233}
+{"t":1795625149145,"file":"Hander.hpp","type":"insert","rangeStart":266,"rangeEnd":266,"text":";","textLength":1,"docVersion":234}
+{"t":1795625152035,"file":"Hander.hpp","type":"insert","rangeStart":270,"rangeEnd":270,"text":";","textLength":1,"docVersion":235}
+{"t":1795625152526,"file":"Hander.hpp","type":"file-save"}
+{"t":1795625158305,"file":"Handler.cpp","type":"file-open"}
+{"t":1795625158407,"file":"Handler.cpp","type":"file-created","size":0}
+{"t":1795625163812,"file":"Handler.cpp","type":"insert","rangeStart":0,"rangeEnd":0,"text":"@","textLength":1,"docVersion":2}
+{"t":1795625164334,"file":"Handler.cpp","type":"delete","rangeStart":0,"rangeEnd":1,"text":"","textLength":0,"docVersion":3}
+{"t":1795625164489,"file":"Handler.cpp","type":"insert","rangeStart":0,"rangeEnd":0,"text":"#","textLength":1,"docVersion":4}
+{"t":1795625164661,"file":"Handler.cpp","type":"insert","rangeStart":1,"rangeEnd":1,"text":"i","textLength":1,"docVersion":5}
+{"t":1795625164760,"file":"Handler.cpp","type":"insert","rangeStart":2,"rangeEnd":2,"text":"n","textLength":1,"docVersion":6}
+{"t":1795625164869,"file":"Handler.cpp","type":"insert","rangeStart":3,"rangeEnd":3,"text":"c","textLength":1,"docVersion":7}
+{"t":1795625164967,"file":"Handler.cpp","type":"insert","rangeStart":4,"rangeEnd":4,"text":"l","textLength":1,"docVersion":8}
+{"t":1795625165035,"file":"Handler.cpp","type":"insert","rangeStart":5,"rangeEnd":5,"text":"u","textLength":1,"docVersion":9}
+{"t":1795625165111,"file":"Handler.cpp","type":"insert","rangeStart":6,"rangeEnd":6,"text":"d","textLength":1,"docVersion":10}
+{"t":1795625165261,"file":"Handler.cpp","type":"insert","rangeStart":7,"rangeEnd":7,"text":"e","textLength":1,"docVersion":11}
+{"t":1795625165346,"file":"Handler.cpp","type":"insert","rangeStart":8,"rangeEnd":8,"text":" ","textLength":1,"docVersion":12}
+{"t":1795625166321,"file":"Handler.cpp","type":"insert","rangeStart":9,"rangeEnd":9,"text":"\"\"","textLength":2,"docVersion":13}
+{"t":1795625166569,"file":"Handler.cpp","type":"insert","rangeStart":10,"rangeEnd":10,"text":"a","textLength":1,"docVersion":14}
+{"t":1795625166661,"file":"Handler.cpp","type":"insert","rangeStart":11,"rangeEnd":11,"text":"h","textLength":1,"docVersion":15}
+{"t":1795625166928,"file":"Handler.cpp","type":"delete","rangeStart":11,"rangeEnd":12,"text":"","textLength":0,"docVersion":16}
+{"t":1795625167037,"file":"Handler.cpp","type":"delete","rangeStart":10,"rangeEnd":11,"text":"","textLength":0,"docVersion":17}
+{"t":1795625167223,"file":"Handler.cpp","type":"insert","rangeStart":10,"rangeEnd":10,"text":"H","textLength":1,"docVersion":18}
+{"t":1795625167392,"file":"Handler.cpp","type":"insert","rangeStart":11,"rangeEnd":11,"text":"a","textLength":1,"docVersion":19}
+{"t":1795625167422,"file":"Handler.cpp","type":"insert","rangeStart":12,"rangeEnd":12,"text":"n","textLength":1,"docVersion":20}
+{"t":1795625167571,"file":"Handler.cpp","type":"insert","rangeStart":13,"rangeEnd":13,"text":"d","textLength":1,"docVersion":21}
+{"t":1795625167912,"file":"Handler.cpp","type":"insert","rangeStart":14,"rangeEnd":14,"text":"l","textLength":1,"docVersion":22}
+{"t":1795625168011,"file":"Handler.cpp","type":"insert","rangeStart":15,"rangeEnd":15,"text":"e","textLength":1,"docVersion":23}
+{"t":1795625168094,"file":"Handler.cpp","type":"insert","rangeStart":16,"rangeEnd":16,"text":"r","textLength":1,"docVersion":24}
+{"t":1795625168203,"file":"Handler.cpp","type":"insert","rangeStart":17,"rangeEnd":17,"text":".","textLength":1,"docVersion":25}
+{"t":1795625168594,"file":"Handler.cpp","type":"insert","rangeStart":18,"rangeEnd":18,"text":"h","textLength":1,"docVersion":26}
+{"t":1795625168747,"file":"Handler.cpp","type":"insert","rangeStart":19,"rangeEnd":19,"text":"p","textLength":1,"docVersion":27}
+{"t":1795625168893,"file":"Handler.cpp","type":"insert","rangeStart":20,"rangeEnd":20,"text":"p","textLength":1,"docVersion":28}
+{"t":1795625169135,"file":"Handler.cpp","type":"replace","rangeStart":21,"rangeEnd":22,"text":"\"","textLength":1,"docVersion":29}
+{"t":1795625169740,"file":"Handler.cpp","type":"insert","rangeStart":22,"rangeEnd":22,"text":"\r\n","textLength":2,"docVersion":30}
+{"t":1795625169946,"file":"Handler.cpp","type":"insert","rangeStart":24,"rangeEnd":24,"text":"\r\n","textLength":2,"docVersion":31}
+{"t":1795625170277,"file":"Handler.cpp","type":"insert","rangeStart":26,"rangeEnd":26,"text":"H","textLength":1,"docVersion":32}
+{"t":1795625170465,"file":"Handler.cpp","type":"insert","rangeStart":27,"rangeEnd":27,"text":"a","textLength":1,"docVersion":33}
+{"t":1795625170558,"file":"Handler.cpp","type":"insert","rangeStart":28,"rangeEnd":28,"text":"n","textLength":1,"docVersion":34}
+{"t":1795625170747,"file":"Handler.cpp","type":"insert","rangeStart":29,"rangeEnd":29,"text":"d","textLength":1,"docVersion":35}
+{"t":1795625170953,"file":"Handler.cpp","type":"insert","rangeStart":30,"rangeEnd":30,"text":"e","textLength":1,"docVersion":36}
+{"t":1795625171046,"file":"Handler.cpp","type":"insert","rangeStart":31,"rangeEnd":31,"text":"r","textLength":1,"docVersion":37}
+{"t":1795625171286,"file":"Handler.cpp","type":"delete","rangeStart":31,"rangeEnd":32,"text":"","textLength":0,"docVersion":38}
+{"t":1795625171412,"file":"Handler.cpp","type":"delete","rangeStart":30,"rangeEnd":31,"text":"","textLength":0,"docVersion":39}
+{"t":1795625171596,"file":"Handler.cpp","type":"insert","rangeStart":30,"rangeEnd":30,"text":"l","textLength":1,"docVersion":40}
+{"t":1795625171691,"file":"Handler.cpp","type":"insert","rangeStart":31,"rangeEnd":31,"text":"e","textLength":1,"docVersion":41}
+{"t":1795625171759,"file":"Handler.cpp","type":"insert","rangeStart":32,"rangeEnd":32,"text":"r","textLength":1,"docVersion":42}
+{"t":1795625171980,"file":"Handler.cpp","type":"insert","rangeStart":33,"rangeEnd":33,"text":":","textLength":1,"docVersion":43}
+{"t":1795625172098,"file":"Handler.cpp","type":"insert","rangeStart":34,"rangeEnd":34,"text":":","textLength":1,"docVersion":44}
+{"t":1795625172763,"file":"Handler.cpp","type":"insert","rangeStart":35,"rangeEnd":35,"text":"H","textLength":1,"docVersion":45}
+{"t":1795625173034,"file":"Handler.cpp","type":"insert","rangeStart":36,"rangeEnd":36,"text":"a","textLength":1,"docVersion":46}
+{"t":1795625173183,"file":"Handler.cpp","type":"insert","rangeStart":37,"rangeEnd":37,"text":"n","textLength":1,"docVersion":47}
+{"t":1795625173302,"file":"Handler.cpp","type":"insert","rangeStart":38,"rangeEnd":38,"text":"d","textLength":1,"docVersion":48}
+{"t":1795625173472,"file":"Handler.cpp","type":"insert","rangeStart":39,"rangeEnd":39,"text":"l","textLength":1,"docVersion":49}
+{"t":1795625173554,"file":"Handler.cpp","type":"insert","rangeStart":40,"rangeEnd":40,"text":"e","textLength":1,"docVersion":50}
+{"t":1795625173634,"file":"Handler.cpp","type":"insert","rangeStart":41,"rangeEnd":41,"text":"r","textLength":1,"docVersion":51}
+{"t":1795625173844,"file":"Handler.cpp","type":"insert","rangeStart":42,"rangeEnd":42,"text":"()","textLength":2,"docVersion":52}
+{"t":1795625174022,"file":"Handler.cpp","type":"replace","rangeStart":43,"rangeEnd":44,"text":")","textLength":1,"docVersion":53}
+{"t":1795625174445,"file":"Handler.cpp","type":"insert","rangeStart":44,"rangeEnd":44,"text":" ","textLength":1,"docVersion":54}
+{"t":1795625174647,"file":"Handler.cpp","type":"insert","rangeStart":45,"rangeEnd":45,"text":"{}","textLength":2,"docVersion":55}
+{"t":1795625174863,"file":"Handler.cpp","type":"insert","rangeStart":46,"rangeEnd":46,"text":"\r\n    \r\n","textLength":8,"docVersion":56}
+{"t":1795625175107,"file":"Handler.cpp","type":"insert","rangeStart":52,"rangeEnd":52,"text":"n","textLength":1,"docVersion":57}
+{"t":1795625175233,"file":"Handler.cpp","type":"insert","rangeStart":53,"rangeEnd":53,"text":"e","textLength":1,"docVersion":58}
+{"t":1795625175453,"file":"Handler.cpp","type":"insert","rangeStart":54,"rangeEnd":54,"text":"x","textLength":1,"docVersion":59}
+{"t":1795625175579,"file":"Handler.cpp","type":"insert","rangeStart":55,"rangeEnd":55,"text":"t","textLength":1,"docVersion":60}
+{"t":1795625175679,"file":"Handler.cpp","type":"insert","rangeStart":56,"rangeEnd":56,"text":" ","textLength":1,"docVersion":61}
+{"t":1795625175814,"file":"Handler.cpp","type":"insert","rangeStart":57,"rangeEnd":57,"text":"=","textLength":1,"docVersion":62}
+{"t":1795625175924,"file":"Handler.cpp","type":"insert","rangeStart":58,"rangeEnd":58,"text":" ","textLength":1,"docVersion":63}
+{"t":1795625176049,"file":"Handler.cpp","type":"insert","rangeStart":59,"rangeEnd":59,"text":"n","textLength":1,"docVersion":64}
+{"t":1795625176216,"file":"Handler.cpp","type":"insert","rangeStart":60,"rangeEnd":60,"text":"u","textLength":1,"docVersion":65}
+{"t":1795625176368,"file":"Handler.cpp","type":"insert","rangeStart":61,"rangeEnd":61,"text":"l","textLength":1,"docVersion":66}
+{"t":1795625176512,"file":"Handler.cpp","type":"insert","rangeStart":62,"rangeEnd":62,"text":"l","textLength":1,"docVersion":67}
+{"t":1795625176644,"file":"Handler.cpp","type":"insert","rangeStart":63,"rangeEnd":63,"text":"p","textLength":1,"docVersion":68}
+{"t":1795625176751,"file":"Handler.cpp","type":"insert","rangeStart":64,"rangeEnd":64,"text":"t","textLength":1,"docVersion":69}
+{"t":1795625176927,"file":"Handler.cpp","type":"insert","rangeStart":65,"rangeEnd":65,"text":"r","textLength":1,"docVersion":70}
+{"t":1795625176967,"file":"Handler.cpp","type":"insert","rangeStart":66,"rangeEnd":66,"text":";","textLength":1,"docVersion":71}
+{"t":1795625178788,"file":"Handler.cpp","type":"insert","rangeStart":70,"rangeEnd":70,"text":"\r\n","textLength":2,"docVersion":72}
+{"t":1795625178913,"file":"Handler.cpp","type":"insert","rangeStart":72,"rangeEnd":72,"text":"\r\n","textLength":2,"docVersion":73}
+{"t":1795625179220,"file":"Handler.cpp","type":"insert","rangeStart":74,"rangeEnd":74,"text":"H","textLength":1,"docVersion":74}
+{"t":1795625179390,"file":"Handler.cpp","type":"insert","rangeStart":75,"rangeEnd":75,"text":"a","textLength":1,"docVersion":75}
+{"t":1795625179478,"file":"Handler.cpp","type":"insert","rangeStart":76,"rangeEnd":76,"text":"n","textLength":1,"docVersion":76}
+{"t":1795625179600,"file":"Handler.cpp","type":"insert","rangeStart":77,"rangeEnd":77,"text":"d","textLength":1,"docVersion":77}
+{"t":1795625179765,"file":"Handler.cpp","type":"insert","rangeStart":78,"rangeEnd":78,"text":"e","textLength":1,"docVersion":78}
+{"t":1795625180216,"file":"Handler.cpp","type":"delete","rangeStart":78,"rangeEnd":79,"text":"","textLength":0,"docVersion":79}
+{"t":1795625180364,"file":"Handler.cpp","type":"insert","rangeStart":78,"rangeEnd":78,"text":"l","textLength":1,"docVersion":80}
+{"t":1795625180429,"file":"Handler.cpp","type":"insert","rangeStart":79,"rangeEnd":79,"text":"e","textLength":1,"docVersion":81}
+{"t":1795625180509,"file":"Handler.cpp","type":"insert","rangeStart":80,"rangeEnd":80,"text":"r","textLength":1,"docVersion":82}
+{"t":1795625180749,"file":"Handler.cpp","type":"insert","rangeStart":81,"rangeEnd":81,"text":":","textLength":1,"docVersion":83}
+{"t":1795625180873,"file":"Handler.cpp","type":"insert","rangeStart":82,"rangeEnd":82,"text":":","textLength":1,"docVersion":84}
+{"t":1795625181138,"file":"Handler.cpp","type":"insert","rangeStart":83,"rangeEnd":83,"text":"H","textLength":1,"docVersion":85}
+{"t":1795625181480,"file":"Handler.cpp","type":"delete","rangeStart":83,"rangeEnd":84,"text":"","textLength":0,"docVersion":86}
+{"t":1795625181827,"file":"Handler.cpp","type":"insert","rangeStart":83,"rangeEnd":83,"text":"~","textLength":1,"docVersion":87}
+{"t":1795625182307,"file":"Handler.cpp","type":"insert","rangeStart":84,"rangeEnd":84,"text":"H","textLength":1,"docVersion":88}
+{"t":1795625182480,"file":"Handler.cpp","type":"insert","rangeStart":85,"rangeEnd":85,"text":"a","textLength":1,"docVersion":89}
+{"t":1795625182592,"file":"Handler.cpp","type":"insert","rangeStart":86,"rangeEnd":86,"text":"n","textLength":1,"docVersion":90}
+{"t":1795625182666,"file":"Handler.cpp","type":"insert","rangeStart":87,"rangeEnd":87,"text":"d","textLength":1,"docVersion":91}
+{"t":1795625182852,"file":"Handler.cpp","type":"insert","rangeStart":88,"rangeEnd":88,"text":"l","textLength":1,"docVersion":92}
+{"t":1795625182962,"file":"Handler.cpp","type":"insert","rangeStart":89,"rangeEnd":89,"text":"e","textLength":1,"docVersion":93}
+{"t":1795625183051,"file":"Handler.cpp","type":"insert","rangeStart":90,"rangeEnd":90,"text":"r","textLength":1,"docVersion":94}
+{"t":1795625183242,"file":"Handler.cpp","type":"insert","rangeStart":91,"rangeEnd":91,"text":" ","textLength":1,"docVersion":95}
+{"t":1795625183791,"file":"Handler.cpp","type":"delete","rangeStart":91,"rangeEnd":92,"text":"","textLength":0,"docVersion":96}
+{"t":1795625183996,"file":"Handler.cpp","type":"insert","rangeStart":91,"rangeEnd":91,"text":"()","textLength":2,"docVersion":97}
+{"t":1795625184185,"file":"Handler.cpp","type":"replace","rangeStart":92,"rangeEnd":93,"text":")","textLength":1,"docVersion":98}
+{"t":1795625184355,"file":"Handler.cpp","type":"insert","rangeStart":93,"rangeEnd":93,"text":" ","textLength":1,"docVersion":99}
+{"t":1795625184441,"file":"Handler.cpp","type":"insert","rangeStart":94,"rangeEnd":94,"text":"{}","textLength":2,"docVersion":100}
+{"t":1795625185026,"file":"Handler.cpp","type":"insert","rangeStart":95,"rangeEnd":95,"text":"\r\n    \r\n","textLength":8,"docVersion":101}
+{"t":1795625193751,"file":"Handler.hpp","type":"file-open"}
+{"t":1795625193808,"file":"Handler.hpp","type":"file-created","size":271}
+{"t":1795625199906,"file":"Handler.cpp","type":"file-save"}
+{"t":1795625219259,"file":"Handler.cpp","type":"delete","rangeStart":97,"rangeEnd":101,"text":"","textLength":0,"docVersion":102}
+{"t":1795625219592,"file":"Handler.cpp","type":"delete","rangeStart":95,"rangeEnd":97,"text":"","textLength":0,"docVersion":103}
+{"t":1795625219974,"file":"Handler.cpp","type":"insert","rangeStart":95,"rangeEnd":95,"text":"\r\n    ","textLength":6,"docVersion":104}
+{"t":1795625221431,"file":"Handler.cpp","type":"delete","rangeStart":97,"rangeEnd":101,"text":"","textLength":0,"docVersion":105}
+{"t":1795625221781,"file":"Handler.cpp","type":"delete","rangeStart":95,"rangeEnd":97,"text":"","textLength":0,"docVersion":106}
+{"t":1795625223241,"file":"Handler.cpp","type":"file-save"}
+{"t":1795625228314,"file":"Handler.cpp","type":"insert","rangeStart":98,"rangeEnd":98,"text":"\r\n","textLength":2,"docVersion":107}
+{"t":1795625228444,"file":"Handler.cpp","type":"insert","rangeStart":100,"rangeEnd":100,"text":"\r\n","textLength":2,"docVersion":108}
+{"t":1795625228630,"file":"Handler.cpp","type":"insert","rangeStart":102,"rangeEnd":102,"text":"v","textLength":1,"docVersion":109}
+{"t":1795625228704,"file":"Handler.cpp","type":"insert","rangeStart":103,"rangeEnd":103,"text":"o","textLength":1,"docVersion":110}
+{"t":1795625228782,"file":"Handler.cpp","type":"insert","rangeStart":104,"rangeEnd":104,"text":"i","textLength":1,"docVersion":111}
+{"t":1795625228879,"file":"Handler.cpp","type":"insert","rangeStart":105,"rangeEnd":105,"text":"d","textLength":1,"docVersion":112}
+{"t":1795625228964,"file":"Handler.cpp","type":"insert","rangeStart":106,"rangeEnd":106,"text":" ","textLength":1,"docVersion":113}
+{"t":1795625229134,"file":"Handler.cpp","type":"insert","rangeStart":107,"rangeEnd":107,"text":"H","textLength":1,"docVersion":114}
+{"t":1795625229276,"file":"Handler.cpp","type":"insert","rangeStart":108,"rangeEnd":108,"text":"a","textLength":1,"docVersion":115}
+{"t":1795625229352,"file":"Handler.cpp","type":"insert","rangeStart":109,"rangeEnd":109,"text":"n","textLength":1,"docVersion":116}
+{"t":1795625229473,"file":"Handler.cpp","type":"insert","rangeStart":110,"rangeEnd":110,"text":"d","textLength":1,"docVersion":117}
+{"t":1795625229577,"file":"Handler.cpp","type":"insert","rangeStart":111,"rangeEnd":111,"text":"l","textLength":1,"docVersion":118}
+{"t":1795625229682,"file":"Handler.cpp","type":"insert","rangeStart":112,"rangeEnd":112,"text":"e","textLength":1,"docVersion":119}
+{"t":1795625229763,"file":"Handler.cpp","type":"insert","rangeStart":113,"rangeEnd":113,"text":"r","textLength":1,"docVersion":120}
+{"t":1795625229989,"file":"Handler.cpp","type":"insert","rangeStart":114,"rangeEnd":114,"text":":","textLength":1,"docVersion":121}
+{"t":1795625230140,"file":"Handler.cpp","type":"insert","rangeStart":115,"rangeEnd":115,"text":":","textLength":1,"docVersion":122}
+{"t":1795625230337,"file":"Handler.cpp","type":"insert","rangeStart":116,"rangeEnd":116,"text":"s","textLength":1,"docVersion":123}
+{"t":1795625230381,"file":"Handler.cpp","type":"insert","rangeStart":117,"rangeEnd":117,"text":"e","textLength":1,"docVersion":124}
+{"t":1795625230534,"file":"Handler.cpp","type":"insert","rangeStart":118,"rangeEnd":118,"text":"t","textLength":1,"docVersion":125}
+{"t":1795625230839,"file":"Handler.cpp","type":"insert","rangeStart":119,"rangeEnd":119,"text":"N","textLength":1,"docVersion":126}
+{"t":1795625230910,"file":"Handler.cpp","type":"insert","rangeStart":120,"rangeEnd":120,"text":"E","textLength":1,"docVersion":127}
+{"t":1795625231133,"file":"Handler.cpp","type":"insert","rangeStart":121,"rangeEnd":121,"text":"x","textLength":1,"docVersion":128}
+{"t":1795625231469,"file":"Handler.cpp","type":"delete","rangeStart":121,"rangeEnd":122,"text":"","textLength":0,"docVersion":129}
+{"t":1795625231618,"file":"Handler.cpp","type":"delete","rangeStart":120,"rangeEnd":121,"text":"","textLength":0,"docVersion":130}
+{"t":1795625231757,"file":"Handler.cpp","type":"insert","rangeStart":120,"rangeEnd":120,"text":"e","textLength":1,"docVersion":131}
+{"t":1795625232036,"file":"Handler.cpp","type":"insert","rangeStart":121,"rangeEnd":121,"text":"x","textLength":1,"docVersion":132}
+{"t":1795625232107,"file":"Handler.cpp","type":"insert","rangeStart":122,"rangeEnd":122,"text":"t","textLength":1,"docVersion":133}
+{"t":1795625232511,"file":"Handler.cpp","type":"insert","rangeStart":123,"rangeEnd":123,"text":"()","textLength":2,"docVersion":134}
+{"t":1795625232848,"file":"Handler.cpp","type":"insert","rangeStart":124,"rangeEnd":124,"text":"H","textLength":1,"docVersion":135}
+{"t":1795625232982,"file":"Handler.cpp","type":"insert","rangeStart":125,"rangeEnd":125,"text":"a","textLength":1,"docVersion":136}
+{"t":1795625233065,"file":"Handler.cpp","type":"insert","rangeStart":126,"rangeEnd":126,"text":"n","textLength":1,"docVersion":137}
+{"t":1795625233168,"file":"Handler.cpp","type":"insert","rangeStart":127,"rangeEnd":127,"text":"d","textLength":1,"docVersion":138}
+{"t":1795625233300,"file":"Handler.cpp","type":"insert","rangeStart":128,"rangeEnd":128,"text":"l","textLength":1,"docVersion":139}
+{"t":1795625233432,"file":"Handler.cpp","type":"insert","rangeStart":129,"rangeEnd":129,"text":"e","textLength":1,"docVersion":140}
+{"t":1795625233517,"file":"Handler.cpp","type":"insert","rangeStart":130,"rangeEnd":130,"text":"r","textLength":1,"docVersion":141}
+{"t":1795625234127,"file":"Handler.cpp","type":"insert","rangeStart":131,"rangeEnd":131,"text":"*","textLength":1,"docVersion":142}
+{"t":1795625234284,"file":"Handler.cpp","type":"insert","rangeStart":132,"rangeEnd":132,"text":" ","textLength":1,"docVersion":143}
+{"t":1795625234484,"file":"Handler.cpp","type":"insert","rangeStart":133,"rangeEnd":133,"text":"n","textLength":1,"docVersion":144}
+{"t":1795625234551,"file":"Handler.cpp","type":"insert","rangeStart":134,"rangeEnd":134,"text":"e","textLength":1,"docVersion":145}
+{"t":1795625234772,"file":"Handler.cpp","type":"insert","rangeStart":135,"rangeEnd":135,"text":"x","textLength":1,"docVersion":146}
+{"t":1795625234926,"file":"Handler.cpp","type":"insert","rangeStart":136,"rangeEnd":136,"text":"t","textLength":1,"docVersion":147}
+{"t":1795625235240,"file":"Handler.cpp","type":"replace","rangeStart":137,"rangeEnd":138,"text":")","textLength":1,"docVersion":148}
+{"t":1795625235837,"file":"Handler.cpp","type":"insert","rangeStart":138,"rangeEnd":138,"text":" ","textLength":1,"docVersion":149}
+{"t":1795625236002,"file":"Handler.cpp","type":"insert","rangeStart":139,"rangeEnd":139,"text":"{}","textLength":2,"docVersion":150}
+{"t":1795625236370,"file":"Handler.cpp","type":"insert","rangeStart":140,"rangeEnd":140,"text":"\r\n    \r\n","textLength":8,"docVersion":151}
+{"t":1795625236608,"file":"Handler.cpp","type":"insert","rangeStart":146,"rangeEnd":146,"text":"t","textLength":1,"docVersion":152}
+{"t":1795625236691,"file":"Handler.cpp","type":"insert","rangeStart":147,"rangeEnd":147,"text":"h","textLength":1,"docVersion":153}
+{"t":1795625236745,"file":"Handler.cpp","type":"insert","rangeStart":148,"rangeEnd":148,"text":"i","textLength":1,"docVersion":154}
+{"t":1795625236840,"file":"Handler.cpp","type":"insert","rangeStart":149,"rangeEnd":149,"text":"s","textLength":1,"docVersion":155}
+{"t":1795625236998,"file":"Handler.cpp","type":"insert","rangeStart":150,"rangeEnd":150,"text":"-","textLength":1,"docVersion":156}
+{"t":1795625237281,"file":"Handler.cpp","type":"insert","rangeStart":151,"rangeEnd":151,"text":">","textLength":1,"docVersion":157}
+{"t":1795625237847,"file":"Handler.cpp","type":"insert","rangeStart":152,"rangeEnd":152,"text":"n","textLength":1,"docVersion":158}
+{"t":1795625237933,"file":"Handler.cpp","type":"insert","rangeStart":153,"rangeEnd":153,"text":"e","textLength":1,"docVersion":159}
+{"t":1795625238153,"file":"Handler.cpp","type":"insert","rangeStart":154,"rangeEnd":154,"text":"x","textLength":1,"docVersion":160}
+{"t":1795625238305,"file":"Handler.cpp","type":"insert","rangeStart":155,"rangeEnd":155,"text":"t","textLength":1,"docVersion":161}
+{"t":1795625238381,"file":"Handler.cpp","type":"insert","rangeStart":156,"rangeEnd":156,"text":" ","textLength":1,"docVersion":162}
+{"t":1795625238538,"file":"Handler.cpp","type":"insert","rangeStart":157,"rangeEnd":157,"text":"=","textLength":1,"docVersion":163}
+{"t":1795625238685,"file":"Handler.cpp","type":"insert","rangeStart":158,"rangeEnd":158,"text":" ","textLength":1,"docVersion":164}
+{"t":1795625238822,"file":"Handler.cpp","type":"insert","rangeStart":159,"rangeEnd":159,"text":"n","textLength":1,"docVersion":165}
+{"t":1795625238898,"file":"Handler.cpp","type":"insert","rangeStart":160,"rangeEnd":160,"text":"e","textLength":1,"docVersion":166}
+{"t":1795625239136,"file":"Handler.cpp","type":"insert","rangeStart":161,"rangeEnd":161,"text":"x","textLength":1,"docVersion":167}
+{"t":1795625239284,"file":"Handler.cpp","type":"insert","rangeStart":162,"rangeEnd":162,"text":"t","textLength":1,"docVersion":168}
+{"t":1795625239360,"file":"Handler.cpp","type":"insert","rangeStart":163,"rangeEnd":163,"text":";","textLength":1,"docVersion":169}
+{"t":1795625241551,"file":"Handler.cpp","type":"insert","rangeStart":167,"rangeEnd":167,"text":"\r\n","textLength":2,"docVersion":170}
+{"t":1795625241706,"file":"Handler.cpp","type":"insert","rangeStart":169,"rangeEnd":169,"text":"\r\n","textLength":2,"docVersion":171}
+{"t":1795625241966,"file":"Handler.cpp","type":"insert","rangeStart":171,"rangeEnd":171,"text":"b","textLength":1,"docVersion":172}
+{"t":1795625242338,"file":"Handler.cpp","type":"insert","rangeStart":172,"rangeEnd":172,"text":"o","textLength":1,"docVersion":173}
+{"t":1795625242487,"file":"Handler.cpp","type":"insert","rangeStart":173,"rangeEnd":173,"text":"o","textLength":1,"docVersion":174}
+{"t":1795625242637,"file":"Handler.cpp","type":"insert","rangeStart":174,"rangeEnd":174,"text":"l","textLength":1,"docVersion":175}
+{"t":1795625242709,"file":"Handler.cpp","type":"insert","rangeStart":175,"rangeEnd":175,"text":" ","textLength":1,"docVersion":176}
+{"t":1795625242889,"file":"Handler.cpp","type":"insert","rangeStart":176,"rangeEnd":176,"text":"H","textLength":1,"docVersion":177}
+{"t":1795625243097,"file":"Handler.cpp","type":"insert","rangeStart":177,"rangeEnd":177,"text":"a","textLength":1,"docVersion":178}
+{"t":1795625243220,"file":"Handler.cpp","type":"insert","rangeStart":178,"rangeEnd":178,"text":"n","textLength":1,"docVersion":179}
+{"t":1795625243432,"file":"Handler.cpp","type":"insert","rangeStart":179,"rangeEnd":179,"text":"d","textLength":1,"docVersion":180}
+{"t":1795625243535,"file":"Handler.cpp","type":"insert","rangeStart":180,"rangeEnd":180,"text":"l","textLength":1,"docVersion":181}
+{"t":1795625243646,"file":"Handler.cpp","type":"insert","rangeStart":181,"rangeEnd":181,"text":"e","textLength":1,"docVersion":182}
+{"t":1795625243749,"file":"Handler.cpp","type":"insert","rangeStart":182,"rangeEnd":182,"text":"r","textLength":1,"docVersion":183}
+{"t":1795625243981,"file":"Handler.cpp","type":"insert","rangeStart":183,"rangeEnd":183,"text":":","textLength":1,"docVersion":184}
+{"t":1795625244153,"file":"Handler.cpp","type":"insert","rangeStart":184,"rangeEnd":184,"text":":","textLength":1,"docVersion":185}
+{"t":1795625244559,"file":"Handler.cpp","type":"insert","rangeStart":185,"rangeEnd":185,"text":"c","textLength":1,"docVersion":186}
+{"t":1795625244668,"file":"Handler.cpp","type":"insert","rangeStart":186,"rangeEnd":186,"text":"a","textLength":1,"docVersion":187}
+{"t":1795625244760,"file":"Handler.cpp","type":"insert","rangeStart":187,"rangeEnd":187,"text":"l","textLength":1,"docVersion":188}
+{"t":1795625244930,"file":"Handler.cpp","type":"insert","rangeStart":188,"rangeEnd":188,"text":"l","textLength":1,"docVersion":189}
+{"t":1795625245143,"file":"Handler.cpp","type":"insert","rangeStart":189,"rangeEnd":189,"text":"N","textLength":1,"docVersion":190}
+{"t":1795625245270,"file":"Handler.cpp","type":"insert","rangeStart":190,"rangeEnd":190,"text":"e","textLength":1,"docVersion":191}
+{"t":1795625245531,"file":"Handler.cpp","type":"insert","rangeStart":191,"rangeEnd":191,"text":"x","textLength":1,"docVersion":192}
+{"t":1795625245664,"file":"Handler.cpp","type":"insert","rangeStart":192,"rangeEnd":192,"text":"t","textLength":1,"docVersion":193}
+{"t":1795625245943,"file":"Handler.cpp","type":"insert","rangeStart":193,"rangeEnd":193,"text":"()","textLength":2,"docVersion":194}
+{"t":1795625246123,"file":"Handler.cpp","type":"insert","rangeStart":194,"rangeEnd":194,"text":"r","textLength":1,"docVersion":195}
+{"t":1795625246454,"file":"Handler.cpp","type":"delete","rangeStart":194,"rangeEnd":195,"text":"","textLength":0,"docVersion":196}
+{"t":1795625246543,"file":"Handler.cpp","type":"insert","rangeStart":194,"rangeEnd":194,"text":"R","textLength":1,"docVersion":197}
+{"t":1795625246655,"file":"Handler.cpp","type":"insert","rangeStart":195,"rangeEnd":195,"text":"e","textLength":1,"docVersion":198}
+{"t":1795625246853,"file":"Handler.cpp","type":"insert","rangeStart":196,"rangeEnd":196,"text":"q","textLength":1,"docVersion":199}
+{"t":1795625247007,"file":"Handler.cpp","type":"insert","rangeStart":197,"rangeEnd":197,"text":"u","textLength":1,"docVersion":200}
+{"t":1795625247071,"file":"Handler.cpp","type":"insert","rangeStart":198,"rangeEnd":198,"text":"e","textLength":1,"docVersion":201}
+{"t":1795625247180,"file":"Handler.cpp","type":"insert","rangeStart":199,"rangeEnd":199,"text":"s","textLength":1,"docVersion":202}
+{"t":1795625247290,"file":"Handler.cpp","type":"insert","rangeStart":200,"rangeEnd":200,"text":"t","textLength":1,"docVersion":203}
+{"t":1795625248044,"file":"Handler.cpp","type":"insert","rangeStart":201,"rangeEnd":201,"text":"&","textLength":1,"docVersion":204}
+{"t":1795625248229,"file":"Handler.cpp","type":"insert","rangeStart":202,"rangeEnd":202,"text":" ","textLength":1,"docVersion":205}
+{"t":1795625248358,"file":"Handler.cpp","type":"insert","rangeStart":203,"rangeEnd":203,"text":"r","textLength":1,"docVersion":206}
+{"t":1795625248426,"file":"Handler.cpp","type":"insert","rangeStart":204,"rangeEnd":204,"text":"e","textLength":1,"docVersion":207}
+{"t":1795625248587,"file":"Handler.cpp","type":"insert","rangeStart":205,"rangeEnd":205,"text":"q","textLength":1,"docVersion":208}
+{"t":1795625248736,"file":"Handler.cpp","type":"insert","rangeStart":206,"rangeEnd":206,"text":"u","textLength":1,"docVersion":209}
+{"t":1795625248768,"file":"Handler.cpp","type":"insert","rangeStart":207,"rangeEnd":207,"text":"e","textLength":1,"docVersion":210}
+{"t":1795625248901,"file":"Handler.cpp","type":"insert","rangeStart":208,"rangeEnd":208,"text":"s","textLength":1,"docVersion":211}
+{"t":1795625249019,"file":"Handler.cpp","type":"insert","rangeStart":209,"rangeEnd":209,"text":"t","textLength":1,"docVersion":212}
+{"t":1795625249277,"file":"Handler.cpp","type":"replace","rangeStart":210,"rangeEnd":211,"text":")","textLength":1,"docVersion":213}
+{"t":1795625249588,"file":"Handler.cpp","type":"insert","rangeStart":211,"rangeEnd":211,"text":";","textLength":1,"docVersion":214}
+{"t":1795625249977,"file":"Handler.cpp","type":"delete","rangeStart":211,"rangeEnd":212,"text":"","textLength":0,"docVersion":215}
+{"t":1795625250187,"file":"Handler.cpp","type":"insert","rangeStart":211,"rangeEnd":211,"text":" ","textLength":1,"docVersion":216}
+{"t":1795625250425,"file":"Handler.cpp","type":"insert","rangeStart":212,"rangeEnd":212,"text":"{}","textLength":2,"docVersion":217}
+{"t":1795625251006,"file":"Handler.cpp","type":"insert","rangeStart":213,"rangeEnd":213,"text":"\r\n    \r\n","textLength":8,"docVersion":218}
+{"t":1795625251282,"file":"Handler.cpp","type":"insert","rangeStart":219,"rangeEnd":219,"text":"i","textLength":1,"docVersion":219}
+{"t":1795625251368,"file":"Handler.cpp","type":"insert","rangeStart":220,"rangeEnd":220,"text":"f","textLength":1,"docVersion":220}
+{"t":1795625251581,"file":"Handler.cpp","type":"insert","rangeStart":221,"rangeEnd":221,"text":"()","textLength":2,"docVersion":221}
+{"t":1795625251929,"file":"Handler.cpp","type":"insert","rangeStart":222,"rangeEnd":222,"text":"n","textLength":1,"docVersion":222}
+{"t":1795625252019,"file":"Handler.cpp","type":"insert","rangeStart":223,"rangeEnd":223,"text":"e","textLength":1,"docVersion":223}
+{"t":1795625252228,"file":"Handler.cpp","type":"insert","rangeStart":224,"rangeEnd":224,"text":"x","textLength":1,"docVersion":224}
+{"t":1795625252357,"file":"Handler.cpp","type":"insert","rangeStart":225,"rangeEnd":225,"text":"t","textLength":1,"docVersion":225}
+{"t":1795625252466,"file":"Handler.cpp","type":"insert","rangeStart":226,"rangeEnd":226,"text":" ","textLength":1,"docVersion":226}
+{"t":1795625252728,"file":"Handler.cpp","type":"insert","rangeStart":227,"rangeEnd":227,"text":"!","textLength":1,"docVersion":227}
+{"t":1795625252852,"file":"Handler.cpp","type":"insert","rangeStart":228,"rangeEnd":228,"text":"+","textLength":1,"docVersion":228}
+{"t":1795625253404,"file":"Handler.cpp","type":"delete","rangeStart":228,"rangeEnd":229,"text":"","textLength":0,"docVersion":229}
+{"t":1795625253623,"file":"Handler.cpp","type":"insert","rangeStart":228,"rangeEnd":228,"text":"=","textLength":1,"docVersion":230}
+{"t":1795625253762,"file":"Handler.cpp","type":"insert","rangeStart":229,"rangeEnd":229,"text":" ","textLength":1,"docVersion":231}
+{"t":1795625253882,"file":"Handler.cpp","type":"insert","rangeStart":230,"rangeEnd":230,"text":"n","textLength":1,"docVersion":232}
+{"t":1795625254077,"file":"Handler.cpp","type":"insert","rangeStart":231,"rangeEnd":231,"text":"u","textLength":1,"docVersion":233}
+{"t":1795625254225,"file":"Handler.cpp","type":"insert","rangeStart":232,"rangeEnd":232,"text":"l","textLength":1,"docVersion":234}
+{"t":1795625254357,"file":"Handler.cpp","type":"insert","rangeStart":233,"rangeEnd":233,"text":"l","textLength":1,"docVersion":235}
+{"t":1795625254519,"file":"Handler.cpp","type":"insert","rangeStart":234,"rangeEnd":234,"text":"p","textLength":1,"docVersion":236}
+{"t":1795625254625,"file":"Handler.cpp","type":"insert","rangeStart":235,"rangeEnd":235,"text":"t","textLength":1,"docVersion":237}
+{"t":1795625254814,"file":"Handler.cpp","type":"insert","rangeStart":236,"rangeEnd":236,"text":"r","textLength":1,"docVersion":238}
+{"t":1795625255013,"file":"Handler.cpp","type":"replace","rangeStart":237,"rangeEnd":238,"text":")","textLength":1,"docVersion":239}
+{"t":1795625255403,"file":"Handler.cpp","type":"insert","rangeStart":238,"rangeEnd":238,"text":" ","textLength":1,"docVersion":240}
+{"t":1795625255677,"file":"Handler.cpp","type":"insert","rangeStart":239,"rangeEnd":239,"text":"{}","textLength":2,"docVersion":241}
+{"t":1795625255911,"file":"Handler.cpp","type":"insert","rangeStart":240,"rangeEnd":240,"text":"\r\n        \r\n    ","textLength":16,"docVersion":242}
+{"t":1795625256449,"file":"Handler.cpp","type":"insert","rangeStart":250,"rangeEnd":250,"text":"r","textLength":1,"docVersion":243}
+{"t":1795625256498,"file":"Handler.cpp","type":"insert","rangeStart":251,"rangeEnd":251,"text":"e","textLength":1,"docVersion":244}
+{"t":1795625256646,"file":"Handler.cpp","type":"insert","rangeStart":252,"rangeEnd":252,"text":"t","textLength":1,"docVersion":245}
+{"t":1795625256741,"file":"Handler.cpp","type":"insert","rangeStart":253,"rangeEnd":253,"text":"u","textLength":1,"docVersion":246}
+{"t":1795625256855,"file":"Handler.cpp","type":"insert","rangeStart":254,"rangeEnd":254,"text":"r","textLength":1,"docVersion":247}
+{"t":1795625256935,"file":"Handler.cpp","type":"insert","rangeStart":255,"rangeEnd":255,"text":"n","textLength":1,"docVersion":248}
+{"t":1795625257034,"file":"Handler.cpp","type":"insert","rangeStart":256,"rangeEnd":256,"text":" ","textLength":1,"docVersion":249}
+{"t":1795625257278,"file":"Handler.cpp","type":"insert","rangeStart":257,"rangeEnd":257,"text":"n","textLength":1,"docVersion":250}
+{"t":1795625257356,"file":"Handler.cpp","type":"insert","rangeStart":258,"rangeEnd":258,"text":"e","textLength":1,"docVersion":251}
+{"t":1795625257596,"file":"Handler.cpp","type":"insert","rangeStart":259,"rangeEnd":259,"text":"x","textLength":1,"docVersion":252}
+{"t":1795625257703,"file":"Handler.cpp","type":"insert","rangeStart":260,"rangeEnd":260,"text":"t","textLength":1,"docVersion":253}
+{"t":1795625257888,"file":"Handler.cpp","type":"insert","rangeStart":261,"rangeEnd":261,"text":"-","textLength":1,"docVersion":254}
+{"t":1795625258594,"file":"Handler.cpp","type":"insert","rangeStart":262,"rangeEnd":262,"text":">","textLength":1,"docVersion":255}
+{"t":1795625258947,"file":"Handler.cpp","type":"insert","rangeStart":263,"rangeEnd":263,"text":"h","textLength":1,"docVersion":256}
+{"t":1795625259050,"file":"Handler.cpp","type":"insert","rangeStart":264,"rangeEnd":264,"text":"a","textLength":1,"docVersion":257}
+{"t":1795625259130,"file":"Handler.cpp","type":"insert","rangeStart":265,"rangeEnd":265,"text":"n","textLength":1,"docVersion":258}
+{"t":1795625259263,"file":"Handler.cpp","type":"insert","rangeStart":266,"rangeEnd":266,"text":"d","textLength":1,"docVersion":259}
+{"t":1795625259353,"file":"Handler.cpp","type":"insert","rangeStart":267,"rangeEnd":267,"text":"l","textLength":1,"docVersion":260}
+{"t":1795625259459,"file":"Handler.cpp","type":"insert","rangeStart":268,"rangeEnd":268,"text":"e","textLength":1,"docVersion":261}
+{"t":1795625259687,"file":"Handler.cpp","type":"insert","rangeStart":269,"rangeEnd":269,"text":"()","textLength":2,"docVersion":262}
+{"t":1795625260031,"file":"Handler.cpp","type":"insert","rangeStart":270,"rangeEnd":270,"text":"r","textLength":1,"docVersion":263}
+{"t":1795625260098,"file":"Handler.cpp","type":"insert","rangeStart":271,"rangeEnd":271,"text":"e","textLength":1,"docVersion":264}
+{"t":1795625260278,"file":"Handler.cpp","type":"insert","rangeStart":272,"rangeEnd":272,"text":"q","textLength":1,"docVersion":265}
+{"t":1795625260429,"file":"Handler.cpp","type":"insert","rangeStart":273,"rangeEnd":273,"text":"u","textLength":1,"docVersion":266}
+{"t":1795625260514,"file":"Handler.cpp","type":"insert","rangeStart":274,"rangeEnd":274,"text":"e","textLength":1,"docVersion":267}
+{"t":1795625260625,"file":"Handler.cpp","type":"insert","rangeStart":275,"rangeEnd":275,"text":"s","textLength":1,"docVersion":268}
+{"t":1795625260705,"file":"Handler.cpp","type":"insert","rangeStart":276,"rangeEnd":276,"text":"t","textLength":1,"docVersion":269}
+{"t":1795625261127,"file":"Handler.cpp","type":"replace","rangeStart":277,"rangeEnd":278,"text":")","textLength":1,"docVersion":270}
+{"t":1795625261482,"file":"Handler.cpp","type":"insert","rangeStart":278,"rangeEnd":278,"text":";","textLength":1,"docVersion":271}
+{"t":1795625263311,"file":"Handler.cpp","type":"insert","rangeStart":286,"rangeEnd":286,"text":"\r\n    ","textLength":6,"docVersion":272}
+{"t":1795625263479,"file":"Handler.cpp","type":"insert","rangeStart":292,"rangeEnd":292,"text":"\r\n    ","textLength":6,"docVersion":273}
+{"t":1795625263479,"file":"Handler.cpp","type":"delete","rangeStart":288,"rangeEnd":292,"text":"","textLength":0,"docVersion":273}
+{"t":1795625263622,"file":"Handler.cpp","type":"insert","rangeStart":294,"rangeEnd":294,"text":"r","textLength":1,"docVersion":274}
+{"t":1795625263692,"file":"Handler.cpp","type":"insert","rangeStart":295,"rangeEnd":295,"text":"e","textLength":1,"docVersion":275}
+{"t":1795625263840,"file":"Handler.cpp","type":"insert","rangeStart":296,"rangeEnd":296,"text":"t","textLength":1,"docVersion":276}
+{"t":1795625264046,"file":"Handler.cpp","type":"insert","rangeStart":297,"rangeEnd":297,"text":"u","textLength":1,"docVersion":277}
+{"t":1795625264555,"file":"Handler.cpp","type":"insert","rangeStart":298,"rangeEnd":298,"text":"r","textLength":1,"docVersion":278}
+{"t":1795625264616,"file":"Handler.cpp","type":"insert","rangeStart":299,"rangeEnd":299,"text":"n","textLength":1,"docVersion":279}
+{"t":1795625264709,"file":"Handler.cpp","type":"insert","rangeStart":300,"rangeEnd":300,"text":" ","textLength":1,"docVersion":280}
+{"t":1795625264835,"file":"Handler.cpp","type":"insert","rangeStart":301,"rangeEnd":301,"text":"t","textLength":1,"docVersion":281}
+{"t":1795625265001,"file":"Handler.cpp","type":"insert","rangeStart":302,"rangeEnd":302,"text":"r","textLength":1,"docVersion":282}
+{"t":1795625265077,"file":"Handler.cpp","type":"insert","rangeStart":303,"rangeEnd":303,"text":"u","textLength":1,"docVersion":283}
+{"t":1795625265213,"file":"Handler.cpp","type":"insert","rangeStart":304,"rangeEnd":304,"text":"e","textLength":1,"docVersion":284}
+{"t":1795625265342,"file":"Handler.cpp","type":"insert","rangeStart":305,"rangeEnd":305,"text":";","textLength":1,"docVersion":285}
+{"t":1795625265972,"file":"Handler.cpp","type":"file-save"}
+{"t":1795625278963,"file":"","type":"session-end"}

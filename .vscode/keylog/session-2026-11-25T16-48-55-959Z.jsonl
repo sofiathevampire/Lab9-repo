@@ -1,0 +1,493 @@
+{"t":1795625335965,"file":"","type":"session-start"}
+{"t":1795625336071,"file":"Request.hpp","type":"file-preexisting","size":2159}
+{"t":1795625336072,"file":"test.cmd","type":"file-preexisting","size":1100}
+{"t":1795625336072,"file":"main.cpp","type":"file-preexisting","size":260}
+{"t":1795625336072,"file":"inputFile.txt","type":"file-preexisting","size":61}
+{"t":1795625336072,"file":"Handler.hpp","type":"file-preexisting","size":271}
+{"t":1795625336072,"file":"Handler.cpp","type":"file-preexisting","size":309}
+{"t":1795625336072,"file":"CommandLineParser.hpp","type":"file-preexisting","size":588}
+{"t":1795625336072,"file":"CMakeLists.txt","type":"file-preexisting","size":887}
+{"t":1795625336072,"file":"CommandLineParser.cpp","type":"file-preexisting","size":3679}
+{"t":1795625336072,"file":"Crypto.cpp","type":"file-preexisting","size":427}
+{"t":1795625336072,"file":"Crypto.hpp","type":"file-preexisting","size":1275}
+{"t":1795625336072,"file":".coderewindignore","type":"file-preexisting","size":11}
+{"t":1795625336072,"file":".coderewind-record","type":"file-preexisting","size":0}
+{"t":1795625336072,"file":".gitignore","type":"file-preexisting","size":389}
+{"t":1795625336072,"file":"des/DesCipher.hpp","type":"file-preexisting","size":1954}
+{"t":1795625336072,"file":"des/DesCipher.cpp","type":"file-preexisting","size":3971}
+{"t":1795625336072,"file":"des/d3des.h","type":"file-preexisting","size":4904}
+{"t":1795625336072,"file":"des/d3des.c","type":"file-preexisting","size":20709}
+{"t":1795625341721,"file":"KeyHandler.hpp","type":"file-open"}
+{"t":1795625341722,"file":"KeyHandler.hpp","type":"file-created","size":0}
+{"t":1795625343081,"file":"KeyHandler.hpp","type":"insert","rangeStart":0,"rangeEnd":0,"text":"#","textLength":1,"docVersion":2}
+{"t":1795625344101,"file":"KeyHandler.hpp","type":"insert","rangeStart":1,"rangeEnd":1,"text":"p","textLength":1,"docVersion":3}
+{"t":1795625344349,"file":"KeyHandler.hpp","type":"insert","rangeStart":2,"rangeEnd":2,"text":"r","textLength":1,"docVersion":4}
+{"t":1795625344705,"file":"KeyHandler.hpp","type":"insert","rangeStart":3,"rangeEnd":3,"text":"a","textLength":1,"docVersion":5}
+{"t":1795625344862,"file":"KeyHandler.hpp","type":"insert","rangeStart":4,"rangeEnd":4,"text":"g","textLength":1,"docVersion":6}
+{"t":1795625345032,"file":"KeyHandler.hpp","type":"insert","rangeStart":5,"rangeEnd":5,"text":"m","textLength":1,"docVersion":7}
+{"t":1795625345123,"file":"KeyHandler.hpp","type":"insert","rangeStart":6,"rangeEnd":6,"text":"a","textLength":1,"docVersion":8}
+{"t":1795625345462,"file":"KeyHandler.hpp","type":"insert","rangeStart":7,"rangeEnd":7,"text":" ","textLength":1,"docVersion":9}
+{"t":1795625345612,"file":"KeyHandler.hpp","type":"insert","rangeStart":8,"rangeEnd":8,"text":"o","textLength":1,"docVersion":10}
+{"t":1795625345690,"file":"KeyHandler.hpp","type":"insert","rangeStart":9,"rangeEnd":9,"text":"n","textLength":1,"docVersion":11}
+{"t":1795625345753,"file":"KeyHandler.hpp","type":"insert","rangeStart":10,"rangeEnd":10,"text":"c","textLength":1,"docVersion":12}
+{"t":1795625345806,"file":"KeyHandler.hpp","type":"insert","rangeStart":11,"rangeEnd":11,"text":"e","textLength":1,"docVersion":13}
+{"t":1795625346313,"file":"KeyHandler.hpp","type":"insert","rangeStart":12,"rangeEnd":12,"text":"\r\n","textLength":2,"docVersion":14}
+{"t":1795625346948,"file":"KeyHandler.hpp","type":"insert","rangeStart":14,"rangeEnd":14,"text":"#","textLength":1,"docVersion":15}
+{"t":1795625347260,"file":"KeyHandler.hpp","type":"insert","rangeStart":15,"rangeEnd":15,"text":"i","textLength":1,"docVersion":16}
+{"t":1795625347325,"file":"KeyHandler.hpp","type":"insert","rangeStart":16,"rangeEnd":16,"text":"n","textLength":1,"docVersion":17}
+{"t":1795625347443,"file":"KeyHandler.hpp","type":"insert","rangeStart":17,"rangeEnd":17,"text":"c","textLength":1,"docVersion":18}
+{"t":1795625347544,"file":"KeyHandler.hpp","type":"insert","rangeStart":18,"rangeEnd":18,"text":"l","textLength":1,"docVersion":19}
+{"t":1795625347584,"file":"KeyHandler.hpp","type":"insert","rangeStart":19,"rangeEnd":19,"text":"u","textLength":1,"docVersion":20}
+{"t":1795625347673,"file":"KeyHandler.hpp","type":"insert","rangeStart":20,"rangeEnd":20,"text":"d","textLength":1,"docVersion":21}
+{"t":1795625347870,"file":"KeyHandler.hpp","type":"insert","rangeStart":21,"rangeEnd":21,"text":"e","textLength":1,"docVersion":22}
+{"t":1795625347964,"file":"KeyHandler.hpp","type":"insert","rangeStart":22,"rangeEnd":22,"text":" ","textLength":1,"docVersion":23}
+{"t":1795625348168,"file":"KeyHandler.hpp","type":"insert","rangeStart":23,"rangeEnd":23,"text":"\"\"","textLength":2,"docVersion":24}
+{"t":1795625348426,"file":"KeyHandler.hpp","type":"insert","rangeStart":24,"rangeEnd":24,"text":"H","textLength":1,"docVersion":25}
+{"t":1795625348904,"file":"KeyHandler.hpp","type":"insert","rangeStart":25,"rangeEnd":25,"text":"a","textLength":1,"docVersion":26}
+{"t":1795625348992,"file":"KeyHandler.hpp","type":"insert","rangeStart":26,"rangeEnd":26,"text":"n","textLength":1,"docVersion":27}
+{"t":1795625349064,"file":"KeyHandler.hpp","type":"insert","rangeStart":27,"rangeEnd":27,"text":"d","textLength":1,"docVersion":28}
+{"t":1795625349206,"file":"KeyHandler.hpp","type":"insert","rangeStart":28,"rangeEnd":28,"text":"l","textLength":1,"docVersion":29}
+{"t":1795625349300,"file":"KeyHandler.hpp","type":"insert","rangeStart":29,"rangeEnd":29,"text":"e","textLength":1,"docVersion":30}
+{"t":1795625349364,"file":"KeyHandler.hpp","type":"insert","rangeStart":30,"rangeEnd":30,"text":"r","textLength":1,"docVersion":31}
+{"t":1795625349635,"file":"KeyHandler.hpp","type":"insert","rangeStart":31,"rangeEnd":31,"text":".","textLength":1,"docVersion":32}
+{"t":1795625349837,"file":"KeyHandler.hpp","type":"insert","rangeStart":32,"rangeEnd":32,"text":"h","textLength":1,"docVersion":33}
+{"t":1795625349988,"file":"KeyHandler.hpp","type":"insert","rangeStart":33,"rangeEnd":33,"text":"p","textLength":1,"docVersion":34}
+{"t":1795625350131,"file":"KeyHandler.hpp","type":"insert","rangeStart":34,"rangeEnd":34,"text":"p","textLength":1,"docVersion":35}
+{"t":1795625350334,"file":"KeyHandler.hpp","type":"replace","rangeStart":35,"rangeEnd":36,"text":"\"","textLength":1,"docVersion":36}
+{"t":1795625350840,"file":"KeyHandler.hpp","type":"insert","rangeStart":36,"rangeEnd":36,"text":"\r\n","textLength":2,"docVersion":37}
+{"t":1795625351266,"file":"KeyHandler.hpp","type":"insert","rangeStart":38,"rangeEnd":38,"text":"\r\n","textLength":2,"docVersion":38}
+{"t":1795625351608,"file":"KeyHandler.hpp","type":"insert","rangeStart":40,"rangeEnd":40,"text":"c","textLength":1,"docVersion":39}
+{"t":1795625351667,"file":"KeyHandler.hpp","type":"insert","rangeStart":41,"rangeEnd":41,"text":"l","textLength":1,"docVersion":40}
+{"t":1795625351756,"file":"KeyHandler.hpp","type":"insert","rangeStart":42,"rangeEnd":42,"text":"a","textLength":1,"docVersion":41}
+{"t":1795625351835,"file":"KeyHandler.hpp","type":"insert","rangeStart":43,"rangeEnd":43,"text":"s","textLength":1,"docVersion":42}
+{"t":1795625352006,"file":"KeyHandler.hpp","type":"insert","rangeStart":44,"rangeEnd":44,"text":"s","textLength":1,"docVersion":43}
+{"t":1795625352065,"file":"KeyHandler.hpp","type":"insert","rangeStart":45,"rangeEnd":45,"text":" ","textLength":1,"docVersion":44}
+{"t":1795625352290,"file":"KeyHandler.hpp","type":"insert","rangeStart":46,"rangeEnd":46,"text":"K","textLength":1,"docVersion":45}
+{"t":1795625352533,"file":"KeyHandler.hpp","type":"insert","rangeStart":47,"rangeEnd":47,"text":"e","textLength":1,"docVersion":46}
+{"t":1795625352640,"file":"KeyHandler.hpp","type":"insert","rangeStart":48,"rangeEnd":48,"text":"y","textLength":1,"docVersion":47}
+{"t":1795625352897,"file":"KeyHandler.hpp","type":"insert","rangeStart":49,"rangeEnd":49,"text":"H","textLength":1,"docVersion":48}
+{"t":1795625353061,"file":"KeyHandler.hpp","type":"insert","rangeStart":50,"rangeEnd":50,"text":"a","textLength":1,"docVersion":49}
+{"t":1795625353124,"file":"KeyHandler.hpp","type":"insert","rangeStart":51,"rangeEnd":51,"text":"n","textLength":1,"docVersion":50}
+{"t":1795625353234,"file":"KeyHandler.hpp","type":"insert","rangeStart":52,"rangeEnd":52,"text":"d","textLength":1,"docVersion":51}
+{"t":1795625353400,"file":"KeyHandler.hpp","type":"insert","rangeStart":53,"rangeEnd":53,"text":"l","textLength":1,"docVersion":52}
+{"t":1795625353493,"file":"KeyHandler.hpp","type":"insert","rangeStart":54,"rangeEnd":54,"text":"e","textLength":1,"docVersion":53}
+{"t":1795625353595,"file":"KeyHandler.hpp","type":"insert","rangeStart":55,"rangeEnd":55,"text":"r","textLength":1,"docVersion":54}
+{"t":1795625353726,"file":"KeyHandler.hpp","type":"insert","rangeStart":56,"rangeEnd":56,"text":" ","textLength":1,"docVersion":55}
+{"t":1795625353887,"file":"KeyHandler.hpp","type":"insert","rangeStart":57,"rangeEnd":57,"text":":","textLength":1,"docVersion":56}
+{"t":1795625354043,"file":"KeyHandler.hpp","type":"insert","rangeStart":58,"rangeEnd":58,"text":" ","textLength":1,"docVersion":57}
+{"t":1795625354141,"file":"KeyHandler.hpp","type":"insert","rangeStart":59,"rangeEnd":59,"text":"p","textLength":1,"docVersion":58}
+{"t":1795625354210,"file":"KeyHandler.hpp","type":"insert","rangeStart":60,"rangeEnd":60,"text":"u","textLength":1,"docVersion":59}
+{"t":1795625354386,"file":"KeyHandler.hpp","type":"insert","rangeStart":61,"rangeEnd":61,"text":"b","textLength":1,"docVersion":60}
+{"t":1795625354540,"file":"KeyHandler.hpp","type":"insert","rangeStart":62,"rangeEnd":62,"text":"l","textLength":1,"docVersion":61}
+{"t":1795625354579,"file":"KeyHandler.hpp","type":"insert","rangeStart":63,"rangeEnd":63,"text":"i","textLength":1,"docVersion":62}
+{"t":1795625354693,"file":"KeyHandler.hpp","type":"insert","rangeStart":64,"rangeEnd":64,"text":"c","textLength":1,"docVersion":63}
+{"t":1795625354823,"file":"KeyHandler.hpp","type":"insert","rangeStart":65,"rangeEnd":65,"text":" ","textLength":1,"docVersion":64}
+{"t":1795625354996,"file":"KeyHandler.hpp","type":"insert","rangeStart":66,"rangeEnd":66,"text":"H","textLength":1,"docVersion":65}
+{"t":1795625355143,"file":"KeyHandler.hpp","type":"insert","rangeStart":67,"rangeEnd":67,"text":"a","textLength":1,"docVersion":66}
+{"t":1795625355215,"file":"KeyHandler.hpp","type":"insert","rangeStart":68,"rangeEnd":68,"text":"n","textLength":1,"docVersion":67}
+{"t":1795625355310,"file":"KeyHandler.hpp","type":"insert","rangeStart":69,"rangeEnd":69,"text":"d","textLength":1,"docVersion":68}
+{"t":1795625355439,"file":"KeyHandler.hpp","type":"insert","rangeStart":70,"rangeEnd":70,"text":"l","textLength":1,"docVersion":69}
+{"t":1795625355531,"file":"KeyHandler.hpp","type":"insert","rangeStart":71,"rangeEnd":71,"text":"e","textLength":1,"docVersion":70}
+{"t":1795625355605,"file":"KeyHandler.hpp","type":"insert","rangeStart":72,"rangeEnd":72,"text":"r","textLength":1,"docVersion":71}
+{"t":1795625355710,"file":"KeyHandler.hpp","type":"insert","rangeStart":73,"rangeEnd":73,"text":" ","textLength":1,"docVersion":72}
+{"t":1795625355941,"file":"KeyHandler.hpp","type":"insert","rangeStart":74,"rangeEnd":74,"text":"{}","textLength":2,"docVersion":73}
+{"t":1795625356111,"file":"KeyHandler.hpp","type":"insert","rangeStart":75,"rangeEnd":75,"text":"\r\n    \r\n","textLength":8,"docVersion":74}
+{"t":1795625357254,"file":"KeyHandler.hpp","type":"insert","rangeStart":81,"rangeEnd":81,"text":"p","textLength":1,"docVersion":75}
+{"t":1795625357321,"file":"KeyHandler.hpp","type":"insert","rangeStart":82,"rangeEnd":82,"text":"u","textLength":1,"docVersion":76}
+{"t":1795625357506,"file":"KeyHandler.hpp","type":"insert","rangeStart":83,"rangeEnd":83,"text":"b","textLength":1,"docVersion":77}
+{"t":1795625357630,"file":"KeyHandler.hpp","type":"insert","rangeStart":84,"rangeEnd":84,"text":"l","textLength":1,"docVersion":78}
+{"t":1795625357686,"file":"KeyHandler.hpp","type":"insert","rangeStart":85,"rangeEnd":85,"text":"i","textLength":1,"docVersion":79}
+{"t":1795625357782,"file":"KeyHandler.hpp","type":"insert","rangeStart":86,"rangeEnd":86,"text":"c","textLength":1,"docVersion":80}
+{"t":1795625358055,"file":"KeyHandler.hpp","type":"insert","rangeStart":87,"rangeEnd":87,"text":":","textLength":1,"docVersion":81}
+{"t":1795625358318,"file":"KeyHandler.hpp","type":"insert","rangeStart":88,"rangeEnd":88,"text":"\r\n    ","textLength":6,"docVersion":82}
+{"t":1795625358945,"file":"KeyHandler.hpp","type":"insert","rangeStart":94,"rangeEnd":94,"text":"b","textLength":1,"docVersion":83}
+{"t":1795625359151,"file":"KeyHandler.hpp","type":"insert","rangeStart":95,"rangeEnd":95,"text":"o","textLength":1,"docVersion":84}
+{"t":1795625359294,"file":"KeyHandler.hpp","type":"insert","rangeStart":96,"rangeEnd":96,"text":"o","textLength":1,"docVersion":85}
+{"t":1795625359444,"file":"KeyHandler.hpp","type":"insert","rangeStart":97,"rangeEnd":97,"text":"l","textLength":1,"docVersion":86}
+{"t":1795625359516,"file":"KeyHandler.hpp","type":"insert","rangeStart":98,"rangeEnd":98,"text":" ","textLength":1,"docVersion":87}
+{"t":1795625359603,"file":"KeyHandler.hpp","type":"insert","rangeStart":99,"rangeEnd":99,"text":"h","textLength":1,"docVersion":88}
+{"t":1795625359712,"file":"KeyHandler.hpp","type":"insert","rangeStart":100,"rangeEnd":100,"text":"a","textLength":1,"docVersion":89}
+{"t":1795625359797,"file":"KeyHandler.hpp","type":"insert","rangeStart":101,"rangeEnd":101,"text":"n","textLength":1,"docVersion":90}
+{"t":1795625359857,"file":"KeyHandler.hpp","type":"insert","rangeStart":102,"rangeEnd":102,"text":"d","textLength":1,"docVersion":91}
+{"t":1795625359979,"file":"KeyHandler.hpp","type":"insert","rangeStart":103,"rangeEnd":103,"text":"l","textLength":1,"docVersion":92}
+{"t":1795625360077,"file":"KeyHandler.hpp","type":"insert","rangeStart":104,"rangeEnd":104,"text":"e","textLength":1,"docVersion":93}
+{"t":1795625360298,"file":"KeyHandler.hpp","type":"insert","rangeStart":105,"rangeEnd":105,"text":"()","textLength":2,"docVersion":94}
+{"t":1795625360657,"file":"KeyHandler.hpp","type":"insert","rangeStart":106,"rangeEnd":106,"text":"R","textLength":1,"docVersion":95}
+{"t":1795625360773,"file":"KeyHandler.hpp","type":"insert","rangeStart":107,"rangeEnd":107,"text":"e","textLength":1,"docVersion":96}
+{"t":1795625360959,"file":"KeyHandler.hpp","type":"insert","rangeStart":108,"rangeEnd":108,"text":"q","textLength":1,"docVersion":97}
+{"t":1795625361040,"file":"KeyHandler.hpp","type":"insert","rangeStart":109,"rangeEnd":109,"text":"u","textLength":1,"docVersion":98}
+{"t":1795625361128,"file":"KeyHandler.hpp","type":"insert","rangeStart":110,"rangeEnd":110,"text":"e","textLength":1,"docVersion":99}
+{"t":1795625361230,"file":"KeyHandler.hpp","type":"insert","rangeStart":111,"rangeEnd":111,"text":"s","textLength":1,"docVersion":100}
+{"t":1795625361320,"file":"KeyHandler.hpp","type":"insert","rangeStart":112,"rangeEnd":112,"text":"t","textLength":1,"docVersion":101}
+{"t":1795625361973,"file":"KeyHandler.hpp","type":"insert","rangeStart":113,"rangeEnd":113,"text":"&","textLength":1,"docVersion":102}
+{"t":1795625362195,"file":"KeyHandler.hpp","type":"insert","rangeStart":114,"rangeEnd":114,"text":" ","textLength":1,"docVersion":103}
+{"t":1795625362512,"file":"KeyHandler.hpp","type":"insert","rangeStart":115,"rangeEnd":115,"text":"r","textLength":1,"docVersion":104}
+{"t":1795625362594,"file":"KeyHandler.hpp","type":"insert","rangeStart":116,"rangeEnd":116,"text":"e","textLength":1,"docVersion":105}
+{"t":1795625362741,"file":"KeyHandler.hpp","type":"insert","rangeStart":117,"rangeEnd":117,"text":"q","textLength":1,"docVersion":106}
+{"t":1795625363108,"file":"KeyHandler.hpp","type":"insert","rangeStart":118,"rangeEnd":118,"text":"u","textLength":1,"docVersion":107}
+{"t":1795625363190,"file":"KeyHandler.hpp","type":"insert","rangeStart":119,"rangeEnd":119,"text":"e","textLength":1,"docVersion":108}
+{"t":1795625363278,"file":"KeyHandler.hpp","type":"insert","rangeStart":120,"rangeEnd":120,"text":"s","textLength":1,"docVersion":109}
+{"t":1795625363328,"file":"KeyHandler.hpp","type":"insert","rangeStart":121,"rangeEnd":121,"text":"t","textLength":1,"docVersion":110}
+{"t":1795625363882,"file":"KeyHandler.hpp","type":"replace","rangeStart":122,"rangeEnd":123,"text":")","textLength":1,"docVersion":111}
+{"t":1795625364178,"file":"KeyHandler.hpp","type":"insert","rangeStart":123,"rangeEnd":123,"text":" ","textLength":1,"docVersion":112}
+{"t":1795625364366,"file":"KeyHandler.hpp","type":"insert","rangeStart":124,"rangeEnd":124,"text":"o","textLength":1,"docVersion":113}
+{"t":1795625364474,"file":"KeyHandler.hpp","type":"insert","rangeStart":125,"rangeEnd":125,"text":"v","textLength":1,"docVersion":114}
+{"t":1795625365067,"file":"KeyHandler.hpp","type":"insert","rangeStart":126,"rangeEnd":126,"text":"e","textLength":1,"docVersion":115}
+{"t":1795625365172,"file":"KeyHandler.hpp","type":"insert","rangeStart":127,"rangeEnd":127,"text":"r","textLength":1,"docVersion":116}
+{"t":1795625365326,"file":"KeyHandler.hpp","type":"insert","rangeStart":128,"rangeEnd":128,"text":"r","textLength":1,"docVersion":117}
+{"t":1795625365488,"file":"KeyHandler.hpp","type":"insert","rangeStart":129,"rangeEnd":129,"text":"i","textLength":1,"docVersion":118}
+{"t":1795625365619,"file":"KeyHandler.hpp","type":"insert","rangeStart":130,"rangeEnd":130,"text":"d","textLength":1,"docVersion":119}
+{"t":1795625365804,"file":"KeyHandler.hpp","type":"insert","rangeStart":131,"rangeEnd":131,"text":"e","textLength":1,"docVersion":120}
+{"t":1795625365871,"file":"KeyHandler.hpp","type":"insert","rangeStart":132,"rangeEnd":132,"text":";","textLength":1,"docVersion":121}
+{"t":1795625368496,"file":"KeyHandler.hpp","type":"insert","rangeStart":136,"rangeEnd":136,"text":";","textLength":1,"docVersion":122}
+{"t":1795625369111,"file":"KeyHandler.hpp","type":"insert","rangeStart":137,"rangeEnd":137,"text":"\r\n","textLength":2,"docVersion":123}
+{"t":1795625369393,"file":"KeyHandler.hpp","type":"insert","rangeStart":139,"rangeEnd":139,"text":"\r\n","textLength":2,"docVersion":124}
+{"t":1795625370262,"file":"KeyHandler.hpp","type":"delete","rangeStart":139,"rangeEnd":141,"text":"","textLength":0,"docVersion":125}
+{"t":1795625370944,"file":"KeyHandler.hpp","type":"file-save"}
+{"t":1795625378687,"file":"KeyHandler.cpp","type":"file-open"}
+{"t":1795625378791,"file":"KeyHandler.cpp","type":"file-created","size":0}
+{"t":1795625381109,"file":"KeyHandler.cpp","type":"insert","rangeStart":0,"rangeEnd":0,"text":"#","textLength":1,"docVersion":2}
+{"t":1795625381282,"file":"KeyHandler.cpp","type":"insert","rangeStart":1,"rangeEnd":1,"text":"i","textLength":1,"docVersion":3}
+{"t":1795625381405,"file":"KeyHandler.cpp","type":"insert","rangeStart":2,"rangeEnd":2,"text":"n","textLength":1,"docVersion":4}
+{"t":1795625381523,"file":"KeyHandler.cpp","type":"insert","rangeStart":3,"rangeEnd":3,"text":"c","textLength":1,"docVersion":5}
+{"t":1795625381627,"file":"KeyHandler.cpp","type":"insert","rangeStart":4,"rangeEnd":4,"text":"l","textLength":1,"docVersion":6}
+{"t":1795625381671,"file":"KeyHandler.cpp","type":"insert","rangeStart":5,"rangeEnd":5,"text":"u","textLength":1,"docVersion":7}
+{"t":1795625381765,"file":"KeyHandler.cpp","type":"insert","rangeStart":6,"rangeEnd":6,"text":"d","textLength":1,"docVersion":8}
+{"t":1795625381910,"file":"KeyHandler.cpp","type":"insert","rangeStart":7,"rangeEnd":7,"text":"e","textLength":1,"docVersion":9}
+{"t":1795625382011,"file":"KeyHandler.cpp","type":"insert","rangeStart":8,"rangeEnd":8,"text":" ","textLength":1,"docVersion":10}
+{"t":1795625382320,"file":"KeyHandler.cpp","type":"insert","rangeStart":9,"rangeEnd":9,"text":"\"\"","textLength":2,"docVersion":11}
+{"t":1795625382569,"file":"KeyHandler.cpp","type":"insert","rangeStart":10,"rangeEnd":10,"text":"K","textLength":1,"docVersion":12}
+{"t":1795625382675,"file":"KeyHandler.cpp","type":"insert","rangeStart":11,"rangeEnd":11,"text":"e","textLength":1,"docVersion":13}
+{"t":1795625382852,"file":"KeyHandler.cpp","type":"insert","rangeStart":12,"rangeEnd":12,"text":"y","textLength":1,"docVersion":14}
+{"t":1795625383125,"file":"KeyHandler.cpp","type":"insert","rangeStart":13,"rangeEnd":13,"text":"H","textLength":1,"docVersion":15}
+{"t":1795625383240,"file":"KeyHandler.cpp","type":"insert","rangeStart":14,"rangeEnd":14,"text":"a","textLength":1,"docVersion":16}
+{"t":1795625383333,"file":"KeyHandler.cpp","type":"insert","rangeStart":15,"rangeEnd":15,"text":"n","textLength":1,"docVersion":17}
+{"t":1795625383423,"file":"KeyHandler.cpp","type":"insert","rangeStart":16,"rangeEnd":16,"text":"d","textLength":1,"docVersion":18}
+{"t":1795625383547,"file":"KeyHandler.cpp","type":"insert","rangeStart":17,"rangeEnd":17,"text":"l","textLength":1,"docVersion":19}
+{"t":1795625383659,"file":"KeyHandler.cpp","type":"insert","rangeStart":18,"rangeEnd":18,"text":"e","textLength":1,"docVersion":20}
+{"t":1795625383731,"file":"KeyHandler.cpp","type":"insert","rangeStart":19,"rangeEnd":19,"text":"r","textLength":1,"docVersion":21}
+{"t":1795625383826,"file":"KeyHandler.cpp","type":"insert","rangeStart":20,"rangeEnd":20,"text":".","textLength":1,"docVersion":22}
+{"t":1795625384015,"file":"KeyHandler.cpp","type":"insert","rangeStart":21,"rangeEnd":21,"text":"h","textLength":1,"docVersion":23}
+{"t":1795625384155,"file":"KeyHandler.cpp","type":"insert","rangeStart":22,"rangeEnd":22,"text":"p","textLength":1,"docVersion":24}
+{"t":1795625384308,"file":"KeyHandler.cpp","type":"insert","rangeStart":23,"rangeEnd":23,"text":"p","textLength":1,"docVersion":25}
+{"t":1795625384578,"file":"KeyHandler.cpp","type":"replace","rangeStart":24,"rangeEnd":25,"text":"\"","textLength":1,"docVersion":26}
+{"t":1795625385055,"file":"KeyHandler.cpp","type":"insert","rangeStart":25,"rangeEnd":25,"text":"\r\n","textLength":2,"docVersion":27}
+{"t":1795625385400,"file":"KeyHandler.cpp","type":"insert","rangeStart":27,"rangeEnd":27,"text":"#","textLength":1,"docVersion":28}
+{"t":1795625385803,"file":"KeyHandler.cpp","type":"insert","rangeStart":28,"rangeEnd":28,"text":"i","textLength":1,"docVersion":29}
+{"t":1795625385895,"file":"KeyHandler.cpp","type":"insert","rangeStart":29,"rangeEnd":29,"text":"n","textLength":1,"docVersion":30}
+{"t":1795625385942,"file":"KeyHandler.cpp","type":"insert","rangeStart":30,"rangeEnd":30,"text":"c","textLength":1,"docVersion":31}
+{"t":1795625386060,"file":"KeyHandler.cpp","type":"insert","rangeStart":31,"rangeEnd":31,"text":"l","textLength":1,"docVersion":32}
+{"t":1795625386125,"file":"KeyHandler.cpp","type":"insert","rangeStart":32,"rangeEnd":32,"text":"u","textLength":1,"docVersion":33}
+{"t":1795625386247,"file":"KeyHandler.cpp","type":"insert","rangeStart":33,"rangeEnd":33,"text":"d","textLength":1,"docVersion":34}
+{"t":1795625386383,"file":"KeyHandler.cpp","type":"insert","rangeStart":34,"rangeEnd":34,"text":"e","textLength":1,"docVersion":35}
+{"t":1795625386462,"file":"KeyHandler.cpp","type":"insert","rangeStart":35,"rangeEnd":35,"text":" ","textLength":1,"docVersion":36}
+{"t":1795625386640,"file":"KeyHandler.cpp","type":"insert","rangeStart":36,"rangeEnd":36,"text":"<","textLength":1,"docVersion":37}
+{"t":1795625386845,"file":"KeyHandler.cpp","type":"insert","rangeStart":37,"rangeEnd":37,"text":"i","textLength":1,"docVersion":38}
+{"t":1795625386931,"file":"KeyHandler.cpp","type":"insert","rangeStart":38,"rangeEnd":38,"text":"o","textLength":1,"docVersion":39}
+{"t":1795625386997,"file":"KeyHandler.cpp","type":"insert","rangeStart":39,"rangeEnd":39,"text":"s","textLength":1,"docVersion":40}
+{"t":1795625387122,"file":"KeyHandler.cpp","type":"insert","rangeStart":40,"rangeEnd":40,"text":"t","textLength":1,"docVersion":41}
+{"t":1795625387263,"file":"KeyHandler.cpp","type":"insert","rangeStart":41,"rangeEnd":41,"text":"e","textLength":1,"docVersion":42}
+{"t":1795625387355,"file":"KeyHandler.cpp","type":"insert","rangeStart":42,"rangeEnd":42,"text":"r","textLength":1,"docVersion":43}
+{"t":1795625387750,"file":"KeyHandler.cpp","type":"delete","rangeStart":42,"rangeEnd":43,"text":"","textLength":0,"docVersion":44}
+{"t":1795625387877,"file":"KeyHandler.cpp","type":"delete","rangeStart":41,"rangeEnd":42,"text":"","textLength":0,"docVersion":45}
+{"t":1795625387940,"file":"KeyHandler.cpp","type":"insert","rangeStart":41,"rangeEnd":41,"text":"r","textLength":1,"docVersion":46}
+{"t":1795625388013,"file":"KeyHandler.cpp","type":"insert","rangeStart":42,"rangeEnd":42,"text":"e","textLength":1,"docVersion":47}
+{"t":1795625388047,"file":"KeyHandler.cpp","type":"insert","rangeStart":43,"rangeEnd":43,"text":"a","textLength":1,"docVersion":48}
+{"t":1795625388117,"file":"KeyHandler.cpp","type":"insert","rangeStart":44,"rangeEnd":44,"text":"m","textLength":1,"docVersion":49}
+{"t":1795625388342,"file":"KeyHandler.cpp","type":"insert","rangeStart":45,"rangeEnd":45,"text":">","textLength":1,"docVersion":50}
+{"t":1795625388914,"file":"KeyHandler.cpp","type":"file-save"}
+{"t":1795625391890,"file":"KeyHandler.cpp","type":"window-blur"}
+{"t":1795625423870,"file":"KeyHandler.cpp","type":"window-focus"}
+{"t":1795625424632,"file":"KeyHandler.cpp","type":"insert","rangeStart":46,"rangeEnd":46,"text":"\r\n","textLength":2,"docVersion":51}
+{"t":1795625425029,"file":"KeyHandler.cpp","type":"insert","rangeStart":48,"rangeEnd":48,"text":"\r\n","textLength":2,"docVersion":52}
+{"t":1795625425317,"file":"KeyHandler.cpp","type":"insert","rangeStart":50,"rangeEnd":50,"text":"b","textLength":1,"docVersion":53}
+{"t":1795625425407,"file":"KeyHandler.cpp","type":"insert","rangeStart":51,"rangeEnd":51,"text":"o","textLength":1,"docVersion":54}
+{"t":1795625425591,"file":"KeyHandler.cpp","type":"insert","rangeStart":52,"rangeEnd":52,"text":"o","textLength":1,"docVersion":55}
+{"t":1795625425776,"file":"KeyHandler.cpp","type":"insert","rangeStart":53,"rangeEnd":53,"text":"l","textLength":1,"docVersion":56}
+{"t":1795625425905,"file":"KeyHandler.cpp","type":"insert","rangeStart":54,"rangeEnd":54,"text":" ","textLength":1,"docVersion":57}
+{"t":1795625426125,"file":"KeyHandler.cpp","type":"insert","rangeStart":55,"rangeEnd":55,"text":"K","textLength":1,"docVersion":58}
+{"t":1795625426278,"file":"KeyHandler.cpp","type":"insert","rangeStart":56,"rangeEnd":56,"text":"e","textLength":1,"docVersion":59}
+{"t":1795625426416,"file":"KeyHandler.cpp","type":"insert","rangeStart":57,"rangeEnd":57,"text":"y","textLength":1,"docVersion":60}
+{"t":1795625426620,"file":"KeyHandler.cpp","type":"insert","rangeStart":58,"rangeEnd":58,"text":"H","textLength":1,"docVersion":61}
+{"t":1795625426785,"file":"KeyHandler.cpp","type":"insert","rangeStart":59,"rangeEnd":59,"text":"a","textLength":1,"docVersion":62}
+{"t":1795625426834,"file":"KeyHandler.cpp","type":"insert","rangeStart":60,"rangeEnd":60,"text":"n","textLength":1,"docVersion":63}
+{"t":1795625427002,"file":"KeyHandler.cpp","type":"insert","rangeStart":61,"rangeEnd":61,"text":"d","textLength":1,"docVersion":64}
+{"t":1795625427066,"file":"KeyHandler.cpp","type":"insert","rangeStart":62,"rangeEnd":62,"text":"l","textLength":1,"docVersion":65}
+{"t":1795625427239,"file":"KeyHandler.cpp","type":"insert","rangeStart":63,"rangeEnd":63,"text":"e","textLength":1,"docVersion":66}
+{"t":1795625427320,"file":"KeyHandler.cpp","type":"insert","rangeStart":64,"rangeEnd":64,"text":"r","textLength":1,"docVersion":67}
+{"t":1795625427598,"file":"KeyHandler.cpp","type":"insert","rangeStart":65,"rangeEnd":65,"text":":","textLength":1,"docVersion":68}
+{"t":1795625427741,"file":"KeyHandler.cpp","type":"insert","rangeStart":66,"rangeEnd":66,"text":":","textLength":1,"docVersion":69}
+{"t":1795625427965,"file":"KeyHandler.cpp","type":"insert","rangeStart":67,"rangeEnd":67,"text":"h","textLength":1,"docVersion":70}
+{"t":1795625428080,"file":"KeyHandler.cpp","type":"insert","rangeStart":68,"rangeEnd":68,"text":"a","textLength":1,"docVersion":71}
+{"t":1795625428171,"file":"KeyHandler.cpp","type":"insert","rangeStart":69,"rangeEnd":69,"text":"n","textLength":1,"docVersion":72}
+{"t":1795625428295,"file":"KeyHandler.cpp","type":"insert","rangeStart":70,"rangeEnd":70,"text":"d","textLength":1,"docVersion":73}
+{"t":1795625428366,"file":"KeyHandler.cpp","type":"insert","rangeStart":71,"rangeEnd":71,"text":"l","textLength":1,"docVersion":74}
+{"t":1795625428474,"file":"KeyHandler.cpp","type":"insert","rangeStart":72,"rangeEnd":72,"text":"e","textLength":1,"docVersion":75}
+{"t":1795625428693,"file":"KeyHandler.cpp","type":"insert","rangeStart":73,"rangeEnd":73,"text":"()","textLength":2,"docVersion":76}
+{"t":1795625429115,"file":"KeyHandler.cpp","type":"insert","rangeStart":74,"rangeEnd":74,"text":"R","textLength":1,"docVersion":77}
+{"t":1795625429252,"file":"KeyHandler.cpp","type":"insert","rangeStart":75,"rangeEnd":75,"text":"e","textLength":1,"docVersion":78}
+{"t":1795625429406,"file":"KeyHandler.cpp","type":"insert","rangeStart":76,"rangeEnd":76,"text":"q","textLength":1,"docVersion":79}
+{"t":1795625429539,"file":"KeyHandler.cpp","type":"insert","rangeStart":77,"rangeEnd":77,"text":"u","textLength":1,"docVersion":80}
+{"t":1795625429601,"file":"KeyHandler.cpp","type":"insert","rangeStart":78,"rangeEnd":78,"text":"e","textLength":1,"docVersion":81}
+{"t":1795625429702,"file":"KeyHandler.cpp","type":"insert","rangeStart":79,"rangeEnd":79,"text":"s","textLength":1,"docVersion":82}
+{"t":1795625429830,"file":"KeyHandler.cpp","type":"insert","rangeStart":80,"rangeEnd":80,"text":"t","textLength":1,"docVersion":83}
+{"t":1795625430534,"file":"KeyHandler.cpp","type":"insert","rangeStart":81,"rangeEnd":81,"text":"&","textLength":1,"docVersion":84}
+{"t":1795625430726,"file":"KeyHandler.cpp","type":"insert","rangeStart":82,"rangeEnd":82,"text":" ","textLength":1,"docVersion":85}
+{"t":1795625430878,"file":"KeyHandler.cpp","type":"insert","rangeStart":83,"rangeEnd":83,"text":"r","textLength":1,"docVersion":86}
+{"t":1795625430944,"file":"KeyHandler.cpp","type":"insert","rangeStart":84,"rangeEnd":84,"text":"e","textLength":1,"docVersion":87}
+{"t":1795625431084,"file":"KeyHandler.cpp","type":"insert","rangeStart":85,"rangeEnd":85,"text":"q","textLength":1,"docVersion":88}
+{"t":1795625431220,"file":"KeyHandler.cpp","type":"insert","rangeStart":86,"rangeEnd":86,"text":"u","textLength":1,"docVersion":89}
+{"t":1795625431277,"file":"KeyHandler.cpp","type":"insert","rangeStart":87,"rangeEnd":87,"text":"e","textLength":1,"docVersion":90}
+{"t":1795625431411,"file":"KeyHandler.cpp","type":"insert","rangeStart":88,"rangeEnd":88,"text":"s","textLength":1,"docVersion":91}
+{"t":1795625431504,"file":"KeyHandler.cpp","type":"insert","rangeStart":89,"rangeEnd":89,"text":"t","textLength":1,"docVersion":92}
+{"t":1795625431821,"file":"KeyHandler.cpp","type":"replace","rangeStart":90,"rangeEnd":91,"text":")","textLength":1,"docVersion":93}
+{"t":1795625432127,"file":"KeyHandler.cpp","type":"insert","rangeStart":91,"rangeEnd":91,"text":" ","textLength":1,"docVersion":94}
+{"t":1795625432403,"file":"KeyHandler.cpp","type":"insert","rangeStart":92,"rangeEnd":92,"text":"{}","textLength":2,"docVersion":95}
+{"t":1795625432711,"file":"KeyHandler.cpp","type":"insert","rangeStart":93,"rangeEnd":93,"text":"\r\n    \r\n","textLength":8,"docVersion":96}
+{"t":1795625434962,"file":"KeyHandler.cpp","type":"insert","rangeStart":99,"rangeEnd":99,"text":"i","textLength":1,"docVersion":97}
+{"t":1795625435051,"file":"KeyHandler.cpp","type":"insert","rangeStart":100,"rangeEnd":100,"text":"n","textLength":1,"docVersion":98}
+{"t":1795625435088,"file":"KeyHandler.cpp","type":"insert","rangeStart":101,"rangeEnd":101,"text":"t","textLength":1,"docVersion":99}
+{"t":1795625435222,"file":"KeyHandler.cpp","type":"insert","rangeStart":102,"rangeEnd":102,"text":" ","textLength":1,"docVersion":100}
+{"t":1795625435413,"file":"KeyHandler.cpp","type":"insert","rangeStart":103,"rangeEnd":103,"text":"k","textLength":1,"docVersion":101}
+{"t":1795625435522,"file":"KeyHandler.cpp","type":"insert","rangeStart":104,"rangeEnd":104,"text":"e","textLength":1,"docVersion":102}
+{"t":1795625435661,"file":"KeyHandler.cpp","type":"insert","rangeStart":105,"rangeEnd":105,"text":"y","textLength":1,"docVersion":103}
+{"t":1795625435928,"file":"KeyHandler.cpp","type":"insert","rangeStart":106,"rangeEnd":106,"text":"L","textLength":1,"docVersion":104}
+{"t":1795625436050,"file":"KeyHandler.cpp","type":"insert","rangeStart":107,"rangeEnd":107,"text":"e","textLength":1,"docVersion":105}
+{"t":1795625436149,"file":"KeyHandler.cpp","type":"insert","rangeStart":108,"rangeEnd":108,"text":"n","textLength":1,"docVersion":106}
+{"t":1795625436260,"file":"KeyHandler.cpp","type":"insert","rangeStart":109,"rangeEnd":109,"text":"g","textLength":1,"docVersion":107}
+{"t":1795625436497,"file":"KeyHandler.cpp","type":"insert","rangeStart":110,"rangeEnd":110,"text":"t","textLength":1,"docVersion":108}
+{"t":1795625436611,"file":"KeyHandler.cpp","type":"insert","rangeStart":111,"rangeEnd":111,"text":"h","textLength":1,"docVersion":109}
+{"t":1795625436783,"file":"KeyHandler.cpp","type":"insert","rangeStart":112,"rangeEnd":112,"text":" ","textLength":1,"docVersion":110}
+{"t":1795625437034,"file":"KeyHandler.cpp","type":"insert","rangeStart":113,"rangeEnd":113,"text":"=","textLength":1,"docVersion":111}
+{"t":1795625437150,"file":"KeyHandler.cpp","type":"insert","rangeStart":114,"rangeEnd":114,"text":" ","textLength":1,"docVersion":112}
+{"t":1795625437312,"file":"KeyHandler.cpp","type":"insert","rangeStart":115,"rangeEnd":115,"text":"r","textLength":1,"docVersion":113}
+{"t":1795625437377,"file":"KeyHandler.cpp","type":"insert","rangeStart":116,"rangeEnd":116,"text":"e","textLength":1,"docVersion":114}
+{"t":1795625437518,"file":"KeyHandler.cpp","type":"insert","rangeStart":117,"rangeEnd":117,"text":"q","textLength":1,"docVersion":115}
+{"t":1795625437630,"file":"KeyHandler.cpp","type":"insert","rangeStart":118,"rangeEnd":118,"text":"u","textLength":1,"docVersion":116}
+{"t":1795625437710,"file":"KeyHandler.cpp","type":"insert","rangeStart":119,"rangeEnd":119,"text":"e","textLength":1,"docVersion":117}
+{"t":1795625437819,"file":"KeyHandler.cpp","type":"insert","rangeStart":120,"rangeEnd":120,"text":"s","textLength":1,"docVersion":118}
+{"t":1795625437921,"file":"KeyHandler.cpp","type":"insert","rangeStart":121,"rangeEnd":121,"text":"t","textLength":1,"docVersion":119}
+{"t":1795625438051,"file":"KeyHandler.cpp","type":"insert","rangeStart":122,"rangeEnd":122,"text":".","textLength":1,"docVersion":120}
+{"t":1795625438264,"file":"KeyHandler.cpp","type":"insert","rangeStart":123,"rangeEnd":123,"text":"k","textLength":1,"docVersion":121}
+{"t":1795625438352,"file":"KeyHandler.cpp","type":"insert","rangeStart":124,"rangeEnd":124,"text":"e","textLength":1,"docVersion":122}
+{"t":1795625438515,"file":"KeyHandler.cpp","type":"insert","rangeStart":125,"rangeEnd":125,"text":"y","textLength":1,"docVersion":123}
+{"t":1795625438883,"file":"KeyHandler.cpp","type":"insert","rangeStart":126,"rangeEnd":126,"text":".","textLength":1,"docVersion":124}
+{"t":1795625439048,"file":"KeyHandler.cpp","type":"insert","rangeStart":127,"rangeEnd":127,"text":"l","textLength":1,"docVersion":125}
+{"t":1795625439182,"file":"KeyHandler.cpp","type":"insert","rangeStart":128,"rangeEnd":128,"text":"e","textLength":1,"docVersion":126}
+{"t":1795625439305,"file":"KeyHandler.cpp","type":"insert","rangeStart":129,"rangeEnd":129,"text":"n","textLength":1,"docVersion":127}
+{"t":1795625439392,"file":"KeyHandler.cpp","type":"insert","rangeStart":130,"rangeEnd":130,"text":"g","textLength":1,"docVersion":128}
+{"t":1795625439585,"file":"KeyHandler.cpp","type":"insert","rangeStart":131,"rangeEnd":131,"text":"t","textLength":1,"docVersion":129}
+{"t":1795625439659,"file":"KeyHandler.cpp","type":"insert","rangeStart":132,"rangeEnd":132,"text":"h","textLength":1,"docVersion":130}
+{"t":1795625439892,"file":"KeyHandler.cpp","type":"insert","rangeStart":133,"rangeEnd":133,"text":"()","textLength":2,"docVersion":131}
+{"t":1795625440081,"file":"KeyHandler.cpp","type":"replace","rangeStart":134,"rangeEnd":135,"text":")","textLength":1,"docVersion":132}
+{"t":1795625440452,"file":"KeyHandler.cpp","type":"insert","rangeStart":135,"rangeEnd":135,"text":";","textLength":1,"docVersion":133}
+{"t":1795625441086,"file":"KeyHandler.cpp","type":"insert","rangeStart":136,"rangeEnd":136,"text":"\r\n    ","textLength":6,"docVersion":134}
+{"t":1795625441205,"file":"KeyHandler.cpp","type":"insert","rangeStart":142,"rangeEnd":142,"text":"\r\n    ","textLength":6,"docVersion":135}
+{"t":1795625441205,"file":"KeyHandler.cpp","type":"delete","rangeStart":138,"rangeEnd":142,"text":"","textLength":0,"docVersion":135}
+{"t":1795625441449,"file":"KeyHandler.cpp","type":"insert","rangeStart":144,"rangeEnd":144,"text":"i","textLength":1,"docVersion":136}
+{"t":1795625441605,"file":"KeyHandler.cpp","type":"insert","rangeStart":145,"rangeEnd":145,"text":"f","textLength":1,"docVersion":137}
+{"t":1795625441853,"file":"KeyHandler.cpp","type":"insert","rangeStart":146,"rangeEnd":146,"text":"()","textLength":2,"docVersion":138}
+{"t":1795625442237,"file":"KeyHandler.cpp","type":"insert","rangeStart":147,"rangeEnd":147,"text":"k","textLength":1,"docVersion":139}
+{"t":1795625442348,"file":"KeyHandler.cpp","type":"insert","rangeStart":148,"rangeEnd":148,"text":"e","textLength":1,"docVersion":140}
+{"t":1795625442428,"file":"KeyHandler.cpp","type":"insert","rangeStart":149,"rangeEnd":149,"text":"y","textLength":1,"docVersion":141}
+{"t":1795625442646,"file":"KeyHandler.cpp","type":"insert","rangeStart":150,"rangeEnd":150,"text":"L","textLength":1,"docVersion":142}
+{"t":1795625442799,"file":"KeyHandler.cpp","type":"insert","rangeStart":151,"rangeEnd":151,"text":"e","textLength":1,"docVersion":143}
+{"t":1795625442898,"file":"KeyHandler.cpp","type":"insert","rangeStart":152,"rangeEnd":152,"text":"n","textLength":1,"docVersion":144}
+{"t":1795625442971,"file":"KeyHandler.cpp","type":"insert","rangeStart":153,"rangeEnd":153,"text":"g","textLength":1,"docVersion":145}
+{"t":1795625443167,"file":"KeyHandler.cpp","type":"insert","rangeStart":154,"rangeEnd":154,"text":"t","textLength":1,"docVersion":146}
+{"t":1795625443254,"file":"KeyHandler.cpp","type":"insert","rangeStart":155,"rangeEnd":155,"text":"h","textLength":1,"docVersion":147}
+{"t":1795625443425,"file":"KeyHandler.cpp","type":"insert","rangeStart":156,"rangeEnd":156,"text":" ","textLength":1,"docVersion":148}
+{"t":1795625444197,"file":"KeyHandler.cpp","type":"insert","rangeStart":157,"rangeEnd":157,"text":"!","textLength":1,"docVersion":149}
+{"t":1795625444389,"file":"KeyHandler.cpp","type":"insert","rangeStart":158,"rangeEnd":158,"text":"=","textLength":1,"docVersion":150}
+{"t":1795625444770,"file":"KeyHandler.cpp","type":"insert","rangeStart":159,"rangeEnd":159,"text":" ","textLength":1,"docVersion":151}
+{"t":1795625445069,"file":"KeyHandler.cpp","type":"insert","rangeStart":160,"rangeEnd":160,"text":"8","textLength":1,"docVersion":152}
+{"t":1795625445218,"file":"KeyHandler.cpp","type":"insert","rangeStart":161,"rangeEnd":161,"text":" ","textLength":1,"docVersion":153}
+{"t":1795625445812,"file":"KeyHandler.cpp","type":"insert","rangeStart":162,"rangeEnd":162,"text":"&","textLength":1,"docVersion":154}
+{"t":1795625445988,"file":"KeyHandler.cpp","type":"insert","rangeStart":163,"rangeEnd":163,"text":"&","textLength":1,"docVersion":155}
+{"t":1795625446084,"file":"KeyHandler.cpp","type":"insert","rangeStart":164,"rangeEnd":164,"text":" ","textLength":1,"docVersion":156}
+{"t":1795625446361,"file":"KeyHandler.cpp","type":"insert","rangeStart":165,"rangeEnd":165,"text":"k","textLength":1,"docVersion":157}
+{"t":1795625446500,"file":"KeyHandler.cpp","type":"insert","rangeStart":166,"rangeEnd":166,"text":"e","textLength":1,"docVersion":158}
+{"t":1795625446658,"file":"KeyHandler.cpp","type":"insert","rangeStart":167,"rangeEnd":167,"text":"y","textLength":1,"docVersion":159}
+{"t":1795625446867,"file":"KeyHandler.cpp","type":"insert","rangeStart":168,"rangeEnd":168,"text":"L","textLength":1,"docVersion":160}
+{"t":1795625446998,"file":"KeyHandler.cpp","type":"insert","rangeStart":169,"rangeEnd":169,"text":"e","textLength":1,"docVersion":161}
+{"t":1795625447092,"file":"KeyHandler.cpp","type":"insert","rangeStart":170,"rangeEnd":170,"text":"n","textLength":1,"docVersion":162}
+{"t":1795625447203,"file":"KeyHandler.cpp","type":"insert","rangeStart":171,"rangeEnd":171,"text":"g","textLength":1,"docVersion":163}
+{"t":1795625447343,"file":"KeyHandler.cpp","type":"insert","rangeStart":172,"rangeEnd":172,"text":"h","textLength":1,"docVersion":164}
+{"t":1795625447459,"file":"KeyHandler.cpp","type":"insert","rangeStart":173,"rangeEnd":173,"text":"t","textLength":1,"docVersion":165}
+{"t":1795625448003,"file":"KeyHandler.cpp","type":"delete","rangeStart":173,"rangeEnd":174,"text":"","textLength":0,"docVersion":166}
+{"t":1795625448128,"file":"KeyHandler.cpp","type":"delete","rangeStart":172,"rangeEnd":173,"text":"","textLength":0,"docVersion":167}
+{"t":1795625448291,"file":"KeyHandler.cpp","type":"insert","rangeStart":172,"rangeEnd":172,"text":"t","textLength":1,"docVersion":168}
+{"t":1795625448330,"file":"KeyHandler.cpp","type":"insert","rangeStart":173,"rangeEnd":173,"text":"h","textLength":1,"docVersion":169}
+{"t":1795625448455,"file":"KeyHandler.cpp","type":"insert","rangeStart":174,"rangeEnd":174,"text":" ","textLength":1,"docVersion":170}
+{"t":1795625449348,"file":"KeyHandler.cpp","type":"insert","rangeStart":175,"rangeEnd":175,"text":"!","textLength":1,"docVersion":171}
+{"t":1795625449709,"file":"KeyHandler.cpp","type":"insert","rangeStart":176,"rangeEnd":176,"text":"=","textLength":1,"docVersion":172}
+{"t":1795625449896,"file":"KeyHandler.cpp","type":"insert","rangeStart":177,"rangeEnd":177,"text":" ","textLength":1,"docVersion":173}
+{"t":1795625450155,"file":"KeyHandler.cpp","type":"insert","rangeStart":178,"rangeEnd":178,"text":"1","textLength":1,"docVersion":174}
+{"t":1795625450533,"file":"KeyHandler.cpp","type":"insert","rangeStart":179,"rangeEnd":179,"text":"6","textLength":1,"docVersion":175}
+{"t":1795625450656,"file":"KeyHandler.cpp","type":"insert","rangeStart":180,"rangeEnd":180,"text":" ","textLength":1,"docVersion":176}
+{"t":1795625451737,"file":"KeyHandler.cpp","type":"insert","rangeStart":181,"rangeEnd":181,"text":"&","textLength":1,"docVersion":177}
+{"t":1795625451865,"file":"KeyHandler.cpp","type":"insert","rangeStart":182,"rangeEnd":182,"text":"&","textLength":1,"docVersion":178}
+{"t":1795625452022,"file":"KeyHandler.cpp","type":"insert","rangeStart":183,"rangeEnd":183,"text":" ","textLength":1,"docVersion":179}
+{"t":1795625452487,"file":"KeyHandler.cpp","type":"insert","rangeStart":184,"rangeEnd":184,"text":"k","textLength":1,"docVersion":180}
+{"t":1795625452629,"file":"KeyHandler.cpp","type":"insert","rangeStart":185,"rangeEnd":185,"text":"e","textLength":1,"docVersion":181}
+{"t":1795625452923,"file":"KeyHandler.cpp","type":"insert","rangeStart":186,"rangeEnd":186,"text":"y","textLength":1,"docVersion":182}
+{"t":1795625453198,"file":"KeyHandler.cpp","type":"insert","rangeStart":187,"rangeEnd":187,"text":"L","textLength":1,"docVersion":183}
+{"t":1795625453376,"file":"KeyHandler.cpp","type":"insert","rangeStart":188,"rangeEnd":188,"text":"e","textLength":1,"docVersion":184}
+{"t":1795625453486,"file":"KeyHandler.cpp","type":"insert","rangeStart":189,"rangeEnd":189,"text":"n","textLength":1,"docVersion":185}
+{"t":1795625453612,"file":"KeyHandler.cpp","type":"insert","rangeStart":190,"rangeEnd":190,"text":"g","textLength":1,"docVersion":186}
+{"t":1795625453886,"file":"KeyHandler.cpp","type":"insert","rangeStart":191,"rangeEnd":191,"text":"t","textLength":1,"docVersion":187}
+{"t":1795625454018,"file":"KeyHandler.cpp","type":"insert","rangeStart":192,"rangeEnd":192,"text":"h","textLength":1,"docVersion":188}
+{"t":1795625454194,"file":"KeyHandler.cpp","type":"insert","rangeStart":193,"rangeEnd":193,"text":" ","textLength":1,"docVersion":189}
+{"t":1795625454545,"file":"KeyHandler.cpp","type":"insert","rangeStart":194,"rangeEnd":194,"text":"!","textLength":1,"docVersion":190}
+{"t":1795625454795,"file":"KeyHandler.cpp","type":"insert","rangeStart":195,"rangeEnd":195,"text":"=","textLength":1,"docVersion":191}
+{"t":1795625455079,"file":"KeyHandler.cpp","type":"insert","rangeStart":196,"rangeEnd":196,"text":"2","textLength":1,"docVersion":192}
+{"t":1795625455527,"file":"KeyHandler.cpp","type":"delete","rangeStart":196,"rangeEnd":197,"text":"","textLength":0,"docVersion":193}
+{"t":1795625455701,"file":"KeyHandler.cpp","type":"insert","rangeStart":196,"rangeEnd":196,"text":" ","textLength":1,"docVersion":194}
+{"t":1795625455840,"file":"KeyHandler.cpp","type":"insert","rangeStart":197,"rangeEnd":197,"text":"2","textLength":1,"docVersion":195}
+{"t":1795625456005,"file":"KeyHandler.cpp","type":"insert","rangeStart":198,"rangeEnd":198,"text":"4","textLength":1,"docVersion":196}
+{"t":1795625456393,"file":"KeyHandler.cpp","type":"replace","rangeStart":199,"rangeEnd":200,"text":")","textLength":1,"docVersion":197}
+{"t":1795625456668,"file":"KeyHandler.cpp","type":"insert","rangeStart":200,"rangeEnd":200,"text":" ","textLength":1,"docVersion":198}
+{"t":1795625457127,"file":"KeyHandler.cpp","type":"insert","rangeStart":201,"rangeEnd":201,"text":"{}","textLength":2,"docVersion":199}
+{"t":1795625458418,"file":"KeyHandler.cpp","type":"insert","rangeStart":202,"rangeEnd":202,"text":"\r\n        \r\n    ","textLength":16,"docVersion":200}
+{"t":1795625458574,"file":"KeyHandler.cpp","type":"insert","rangeStart":212,"rangeEnd":212,"text":"s","textLength":1,"docVersion":201}
+{"t":1795625458671,"file":"KeyHandler.cpp","type":"insert","rangeStart":213,"rangeEnd":213,"text":"t","textLength":1,"docVersion":202}
+{"t":1795625458995,"file":"KeyHandler.cpp","type":"insert","rangeStart":214,"rangeEnd":214,"text":"d","textLength":1,"docVersion":203}
+{"t":1795625459306,"file":"KeyHandler.cpp","type":"insert","rangeStart":215,"rangeEnd":215,"text":":","textLength":1,"docVersion":204}
+{"t":1795625459471,"file":"KeyHandler.cpp","type":"insert","rangeStart":216,"rangeEnd":216,"text":":","textLength":1,"docVersion":205}
+{"t":1795625460555,"file":"KeyHandler.cpp","type":"insert","rangeStart":217,"rangeEnd":217,"text":"c","textLength":1,"docVersion":206}
+{"t":1795625460839,"file":"KeyHandler.cpp","type":"insert","rangeStart":218,"rangeEnd":218,"text":"o","textLength":1,"docVersion":207}
+{"t":1795625460914,"file":"KeyHandler.cpp","type":"insert","rangeStart":219,"rangeEnd":219,"text":"u","textLength":1,"docVersion":208}
+{"t":1795625461048,"file":"KeyHandler.cpp","type":"insert","rangeStart":220,"rangeEnd":220,"text":"t","textLength":1,"docVersion":209}
+{"t":1795625461152,"file":"KeyHandler.cpp","type":"insert","rangeStart":221,"rangeEnd":221,"text":" ","textLength":1,"docVersion":210}
+{"t":1795625461433,"file":"KeyHandler.cpp","type":"insert","rangeStart":222,"rangeEnd":222,"text":"<","textLength":1,"docVersion":211}
+{"t":1795625461572,"file":"KeyHandler.cpp","type":"insert","rangeStart":223,"rangeEnd":223,"text":"<","textLength":1,"docVersion":212}
+{"t":1795625461664,"file":"KeyHandler.cpp","type":"insert","rangeStart":224,"rangeEnd":224,"text":" ","textLength":1,"docVersion":213}
+{"t":1795625465144,"file":"KeyHandler.cpp","type":"insert","rangeStart":225,"rangeEnd":225,"text":"\"\"","textLength":2,"docVersion":214}
+{"t":1795625465746,"file":"KeyHandler.cpp","type":"insert","rangeStart":226,"rangeEnd":226,"text":"E","textLength":1,"docVersion":215}
+{"t":1795625465946,"file":"KeyHandler.cpp","type":"insert","rangeStart":227,"rangeEnd":227,"text":"r","textLength":1,"docVersion":216}
+{"t":1795625466134,"file":"KeyHandler.cpp","type":"insert","rangeStart":228,"rangeEnd":228,"text":"r","textLength":1,"docVersion":217}
+{"t":1795625466277,"file":"KeyHandler.cpp","type":"insert","rangeStart":229,"rangeEnd":229,"text":"o","textLength":1,"docVersion":218}
+{"t":1795625466554,"file":"KeyHandler.cpp","type":"insert","rangeStart":230,"rangeEnd":230,"text":"r","textLength":1,"docVersion":219}
+{"t":1795625468053,"file":"KeyHandler.cpp","type":"insert","rangeStart":231,"rangeEnd":231,"text":"!","textLength":1,"docVersion":220}
+{"t":1795625468230,"file":"KeyHandler.cpp","type":"insert","rangeStart":232,"rangeEnd":232,"text":" ","textLength":1,"docVersion":221}
+{"t":1795625468517,"file":"KeyHandler.cpp","type":"insert","rangeStart":233,"rangeEnd":233,"text":"T","textLength":1,"docVersion":222}
+{"t":1795625468612,"file":"KeyHandler.cpp","type":"insert","rangeStart":234,"rangeEnd":234,"text":"h","textLength":1,"docVersion":223}
+{"t":1795625469449,"file":"KeyHandler.cpp","type":"delete","rangeStart":234,"rangeEnd":235,"text":"","textLength":0,"docVersion":224}
+{"t":1795625469661,"file":"KeyHandler.cpp","type":"delete","rangeStart":233,"rangeEnd":234,"text":"","textLength":0,"docVersion":225}
+{"t":1795625470323,"file":"KeyHandler.cpp","type":"insert","rangeStart":233,"rangeEnd":233,"text":"T","textLength":1,"docVersion":226}
+{"t":1795625470408,"file":"KeyHandler.cpp","type":"insert","rangeStart":234,"rangeEnd":234,"text":"h","textLength":1,"docVersion":227}
+{"t":1795625470514,"file":"KeyHandler.cpp","type":"insert","rangeStart":235,"rangeEnd":235,"text":"e","textLength":1,"docVersion":228}
+{"t":1795625470614,"file":"KeyHandler.cpp","type":"insert","rangeStart":236,"rangeEnd":236,"text":" ","textLength":1,"docVersion":229}
+{"t":1795625470927,"file":"KeyHandler.cpp","type":"insert","rangeStart":237,"rangeEnd":237,"text":"k","textLength":1,"docVersion":230}
+{"t":1795625471061,"file":"KeyHandler.cpp","type":"insert","rangeStart":238,"rangeEnd":238,"text":"e","textLength":1,"docVersion":231}
+{"t":1795625471185,"file":"KeyHandler.cpp","type":"insert","rangeStart":239,"rangeEnd":239,"text":"y","textLength":1,"docVersion":232}
+{"t":1795625471276,"file":"KeyHandler.cpp","type":"insert","rangeStart":240,"rangeEnd":240,"text":" ","textLength":1,"docVersion":233}
+{"t":1795625471415,"file":"KeyHandler.cpp","type":"insert","rangeStart":241,"rangeEnd":241,"text":"l","textLength":1,"docVersion":234}
+{"t":1795625471495,"file":"KeyHandler.cpp","type":"insert","rangeStart":242,"rangeEnd":242,"text":"e","textLength":1,"docVersion":235}
+{"t":1795625471646,"file":"KeyHandler.cpp","type":"insert","rangeStart":243,"rangeEnd":243,"text":"n","textLength":1,"docVersion":236}
+{"t":1795625471795,"file":"KeyHandler.cpp","type":"insert","rangeStart":244,"rangeEnd":244,"text":"g","textLength":1,"docVersion":237}
+{"t":1795625472302,"file":"KeyHandler.cpp","type":"insert","rangeStart":245,"rangeEnd":245,"text":"t","textLength":1,"docVersion":238}
+{"t":1795625472393,"file":"KeyHandler.cpp","type":"insert","rangeStart":246,"rangeEnd":246,"text":"h","textLength":1,"docVersion":239}
+{"t":1795625472514,"file":"KeyHandler.cpp","type":"insert","rangeStart":247,"rangeEnd":247,"text":" ","textLength":1,"docVersion":240}
+{"t":1795625472612,"file":"KeyHandler.cpp","type":"insert","rangeStart":248,"rangeEnd":248,"text":"h","textLength":1,"docVersion":241}
+{"t":1795625472708,"file":"KeyHandler.cpp","type":"insert","rangeStart":249,"rangeEnd":249,"text":"a","textLength":1,"docVersion":242}
+{"t":1795625472760,"file":"KeyHandler.cpp","type":"insert","rangeStart":250,"rangeEnd":250,"text":"s","textLength":1,"docVersion":243}
+{"t":1795625472863,"file":"KeyHandler.cpp","type":"insert","rangeStart":251,"rangeEnd":251,"text":" ","textLength":1,"docVersion":244}
+{"t":1795625472962,"file":"KeyHandler.cpp","type":"insert","rangeStart":252,"rangeEnd":252,"text":"t","textLength":1,"docVersion":245}
+{"t":1795625473046,"file":"KeyHandler.cpp","type":"insert","rangeStart":253,"rangeEnd":253,"text":"o","textLength":1,"docVersion":246}
+{"t":1795625473181,"file":"KeyHandler.cpp","type":"insert","rangeStart":254,"rangeEnd":254,"text":" ","textLength":1,"docVersion":247}
+{"t":1795625473406,"file":"KeyHandler.cpp","type":"insert","rangeStart":255,"rangeEnd":255,"text":"b","textLength":1,"docVersion":248}
+{"t":1795625473514,"file":"KeyHandler.cpp","type":"insert","rangeStart":256,"rangeEnd":256,"text":"e","textLength":1,"docVersion":249}
+{"t":1795625473601,"file":"KeyHandler.cpp","type":"insert","rangeStart":257,"rangeEnd":257,"text":" ","textLength":1,"docVersion":250}
+{"t":1795625474178,"file":"KeyHandler.cpp","type":"insert","rangeStart":258,"rangeEnd":258,"text":"e","textLength":1,"docVersion":251}
+{"t":1795625474327,"file":"KeyHandler.cpp","type":"insert","rangeStart":259,"rangeEnd":259,"text":"i","textLength":1,"docVersion":252}
+{"t":1795625474451,"file":"KeyHandler.cpp","type":"insert","rangeStart":260,"rangeEnd":260,"text":"t","textLength":1,"docVersion":253}
+{"t":1795625474547,"file":"KeyHandler.cpp","type":"insert","rangeStart":261,"rangeEnd":261,"text":"h","textLength":1,"docVersion":254}
+{"t":1795625474604,"file":"KeyHandler.cpp","type":"insert","rangeStart":262,"rangeEnd":262,"text":"e","textLength":1,"docVersion":255}
+{"t":1795625474718,"file":"KeyHandler.cpp","type":"insert","rangeStart":263,"rangeEnd":263,"text":"r","textLength":1,"docVersion":256}
+{"t":1795625474771,"file":"KeyHandler.cpp","type":"insert","rangeStart":264,"rangeEnd":264,"text":" ","textLength":1,"docVersion":257}
+{"t":1795625475119,"file":"KeyHandler.cpp","type":"insert","rangeStart":265,"rangeEnd":265,"text":"8","textLength":1,"docVersion":258}
+{"t":1795625475970,"file":"KeyHandler.cpp","type":"insert","rangeStart":266,"rangeEnd":266,"text":",","textLength":1,"docVersion":259}
+{"t":1795625476105,"file":"KeyHandler.cpp","type":"insert","rangeStart":267,"rangeEnd":267,"text":" ","textLength":1,"docVersion":260}
+{"t":1795625476278,"file":"KeyHandler.cpp","type":"insert","rangeStart":268,"rangeEnd":268,"text":"1","textLength":1,"docVersion":261}
+{"t":1795625476790,"file":"KeyHandler.cpp","type":"insert","rangeStart":269,"rangeEnd":269,"text":"5","textLength":1,"docVersion":262}
+{"t":1795625477084,"file":"KeyHandler.cpp","type":"delete","rangeStart":269,"rangeEnd":270,"text":"","textLength":0,"docVersion":263}
+{"t":1795625477189,"file":"KeyHandler.cpp","type":"insert","rangeStart":269,"rangeEnd":269,"text":"6","textLength":1,"docVersion":264}
+{"t":1795625477349,"file":"KeyHandler.cpp","type":"insert","rangeStart":270,"rangeEnd":270,"text":",","textLength":1,"docVersion":265}
+{"t":1795625477474,"file":"KeyHandler.cpp","type":"insert","rangeStart":271,"rangeEnd":271,"text":" ","textLength":1,"docVersion":266}
+{"t":1795625477596,"file":"KeyHandler.cpp","type":"insert","rangeStart":272,"rangeEnd":272,"text":"o","textLength":1,"docVersion":267}
+{"t":1795625477732,"file":"KeyHandler.cpp","type":"insert","rangeStart":273,"rangeEnd":273,"text":"r","textLength":1,"docVersion":268}
+{"t":1795625477792,"file":"KeyHandler.cpp","type":"insert","rangeStart":274,"rangeEnd":274,"text":" ","textLength":1,"docVersion":269}
+{"t":1795625478023,"file":"KeyHandler.cpp","type":"insert","rangeStart":275,"rangeEnd":275,"text":"2","textLength":1,"docVersion":270}
+{"t":1795625478329,"file":"KeyHandler.cpp","type":"insert","rangeStart":276,"rangeEnd":276,"text":"5","textLength":1,"docVersion":271}
+{"t":1795625479145,"file":"KeyHandler.cpp","type":"delete","rangeStart":276,"rangeEnd":277,"text":"","textLength":0,"docVersion":272}
+{"t":1795625479384,"file":"KeyHandler.cpp","type":"insert","rangeStart":276,"rangeEnd":276,"text":"4","textLength":1,"docVersion":273}
+{"t":1795625480486,"file":"KeyHandler.cpp","type":"replace","rangeStart":277,"rangeEnd":278,"text":"\"","textLength":1,"docVersion":274}
+{"t":1795625480975,"file":"KeyHandler.cpp","type":"insert","rangeStart":278,"rangeEnd":278,"text":" ","textLength":1,"docVersion":275}
+{"t":1795625481196,"file":"KeyHandler.cpp","type":"insert","rangeStart":279,"rangeEnd":279,"text":"<","textLength":1,"docVersion":276}
+{"t":1795625481367,"file":"KeyHandler.cpp","type":"insert","rangeStart":280,"rangeEnd":280,"text":"<","textLength":1,"docVersion":277}
+{"t":1795625481463,"file":"KeyHandler.cpp","type":"insert","rangeStart":281,"rangeEnd":281,"text":" ","textLength":1,"docVersion":278}
+{"t":1795625481649,"file":"KeyHandler.cpp","type":"insert","rangeStart":282,"rangeEnd":282,"text":"s","textLength":1,"docVersion":279}
+{"t":1795625481708,"file":"KeyHandler.cpp","type":"insert","rangeStart":283,"rangeEnd":283,"text":"t","textLength":1,"docVersion":280}
+{"t":1795625481797,"file":"KeyHandler.cpp","type":"insert","rangeStart":284,"rangeEnd":284,"text":"d","textLength":1,"docVersion":281}
+{"t":1795625482140,"file":"KeyHandler.cpp","type":"insert","rangeStart":285,"rangeEnd":285,"text":":","textLength":1,"docVersion":282}
+{"t":1795625482320,"file":"KeyHandler.cpp","type":"insert","rangeStart":286,"rangeEnd":286,"text":":","textLength":1,"docVersion":283}
+{"t":1795625482516,"file":"KeyHandler.cpp","type":"insert","rangeStart":287,"rangeEnd":287,"text":"e","textLength":1,"docVersion":284}
+{"t":1795625482611,"file":"KeyHandler.cpp","type":"insert","rangeStart":288,"rangeEnd":288,"text":"n","textLength":1,"docVersion":285}
+{"t":1795625482744,"file":"KeyHandler.cpp","type":"insert","rangeStart":289,"rangeEnd":289,"text":"d","textLength":1,"docVersion":286}
+{"t":1795625482825,"file":"KeyHandler.cpp","type":"insert","rangeStart":290,"rangeEnd":290,"text":"l","textLength":1,"docVersion":287}
+{"t":1795625483263,"file":"KeyHandler.cpp","type":"insert","rangeStart":291,"rangeEnd":291,"text":";","textLength":1,"docVersion":288}
+{"t":1795625486882,"file":"KeyHandler.cpp","type":"insert","rangeStart":292,"rangeEnd":292,"text":"\r\n        ","textLength":10,"docVersion":289}
+{"t":1795625487580,"file":"KeyHandler.cpp","type":"insert","rangeStart":302,"rangeEnd":302,"text":"r","textLength":1,"docVersion":290}
+{"t":1795625488570,"file":"KeyHandler.cpp","type":"insert","rangeStart":303,"rangeEnd":303,"text":"e","textLength":1,"docVersion":291}
+{"t":1795625488827,"file":"KeyHandler.cpp","type":"insert","rangeStart":304,"rangeEnd":304,"text":"t","textLength":1,"docVersion":292}
+{"t":1795625488950,"file":"KeyHandler.cpp","type":"insert","rangeStart":305,"rangeEnd":305,"text":"u","textLength":1,"docVersion":293}
+{"t":1795625489095,"file":"KeyHandler.cpp","type":"insert","rangeStart":306,"rangeEnd":306,"text":"r","textLength":1,"docVersion":294}
+{"t":1795625489168,"file":"KeyHandler.cpp","type":"insert","rangeStart":307,"rangeEnd":307,"text":"n","textLength":1,"docVersion":295}
+{"t":1795625489270,"file":"KeyHandler.cpp","type":"insert","rangeStart":308,"rangeEnd":308,"text":" ","textLength":1,"docVersion":296}
+{"t":1795625489422,"file":"KeyHandler.cpp","type":"insert","rangeStart":309,"rangeEnd":309,"text":"f","textLength":1,"docVersion":297}
+{"t":1795625489499,"file":"KeyHandler.cpp","type":"insert","rangeStart":310,"rangeEnd":310,"text":"l","textLength":1,"docVersion":298}
+{"t":1795625489557,"file":"KeyHandler.cpp","type":"insert","rangeStart":311,"rangeEnd":311,"text":"a","textLength":1,"docVersion":299}
+{"t":1795625489776,"file":"KeyHandler.cpp","type":"insert","rangeStart":312,"rangeEnd":312,"text":"s","textLength":1,"docVersion":300}
+{"t":1795625490032,"file":"KeyHandler.cpp","type":"delete","rangeStart":312,"rangeEnd":313,"text":"","textLength":0,"docVersion":301}
+{"t":1795625490154,"file":"KeyHandler.cpp","type":"delete","rangeStart":311,"rangeEnd":312,"text":"","textLength":0,"docVersion":302}
+{"t":1795625490280,"file":"KeyHandler.cpp","type":"delete","rangeStart":310,"rangeEnd":311,"text":"","textLength":0,"docVersion":303}
+{"t":1795625490383,"file":"KeyHandler.cpp","type":"insert","rangeStart":310,"rangeEnd":310,"text":"a","textLength":1,"docVersion":304}
+{"t":1795625490506,"file":"KeyHandler.cpp","type":"insert","rangeStart":311,"rangeEnd":311,"text":"l","textLength":1,"docVersion":305}
+{"t":1795625490577,"file":"KeyHandler.cpp","type":"insert","rangeStart":312,"rangeEnd":312,"text":"s","textLength":1,"docVersion":306}
+{"t":1795625490689,"file":"KeyHandler.cpp","type":"insert","rangeStart":313,"rangeEnd":313,"text":"e","textLength":1,"docVersion":307}
+{"t":1795625490745,"file":"KeyHandler.cpp","type":"insert","rangeStart":314,"rangeEnd":314,"text":";","textLength":1,"docVersion":308}
+{"t":1795625492866,"file":"KeyHandler.cpp","type":"insert","rangeStart":322,"rangeEnd":322,"text":"\r\n    ","textLength":6,"docVersion":309}
+{"t":1795625492986,"file":"KeyHandler.cpp","type":"insert","rangeStart":328,"rangeEnd":328,"text":"\r\n    ","textLength":6,"docVersion":310}
+{"t":1795625492986,"file":"KeyHandler.cpp","type":"delete","rangeStart":324,"rangeEnd":328,"text":"","textLength":0,"docVersion":310}
+{"t":1795625493086,"file":"KeyHandler.cpp","type":"insert","rangeStart":330,"rangeEnd":330,"text":"r","textLength":1,"docVersion":311}
+{"t":1795625493158,"file":"KeyHandler.cpp","type":"insert","rangeStart":331,"rangeEnd":331,"text":"e","textLength":1,"docVersion":312}
+{"t":1795625493304,"file":"KeyHandler.cpp","type":"insert","rangeStart":332,"rangeEnd":332,"text":"t","textLength":1,"docVersion":313}
+{"t":1795625493370,"file":"KeyHandler.cpp","type":"insert","rangeStart":333,"rangeEnd":333,"text":"u","textLength":1,"docVersion":314}
+{"t":1795625493503,"file":"KeyHandler.cpp","type":"insert","rangeStart":334,"rangeEnd":334,"text":"r","textLength":1,"docVersion":315}
+{"t":1795625493591,"file":"KeyHandler.cpp","type":"insert","rangeStart":335,"rangeEnd":335,"text":"n","textLength":1,"docVersion":316}
+{"t":1795625493652,"file":"KeyHandler.cpp","type":"insert","rangeStart":336,"rangeEnd":336,"text":" ","textLength":1,"docVersion":317}
+{"t":1795625493813,"file":"KeyHandler.cpp","type":"insert","rangeStart":337,"rangeEnd":337,"text":"c","textLength":1,"docVersion":318}
+{"t":1795625493883,"file":"KeyHandler.cpp","type":"insert","rangeStart":338,"rangeEnd":338,"text":"a","textLength":1,"docVersion":319}
+{"t":1795625493958,"file":"KeyHandler.cpp","type":"insert","rangeStart":339,"rangeEnd":339,"text":"l","textLength":1,"docVersion":320}
+{"t":1795625494080,"file":"KeyHandler.cpp","type":"insert","rangeStart":340,"rangeEnd":340,"text":"l","textLength":1,"docVersion":321}
+{"t":1795625494322,"file":"KeyHandler.cpp","type":"insert","rangeStart":341,"rangeEnd":341,"text":"N","textLength":1,"docVersion":322}
+{"t":1795625494430,"file":"KeyHandler.cpp","type":"insert","rangeStart":342,"rangeEnd":342,"text":"e","textLength":1,"docVersion":323}
+{"t":1795625494672,"file":"KeyHandler.cpp","type":"insert","rangeStart":343,"rangeEnd":343,"text":"x","textLength":1,"docVersion":324}
+{"t":1795625494844,"file":"KeyHandler.cpp","type":"insert","rangeStart":344,"rangeEnd":344,"text":"t","textLength":1,"docVersion":325}
+{"t":1795625495147,"file":"KeyHandler.cpp","type":"insert","rangeStart":345,"rangeEnd":345,"text":"()","textLength":2,"docVersion":326}
+{"t":1795625495313,"file":"KeyHandler.cpp","type":"insert","rangeStart":346,"rangeEnd":346,"text":"r","textLength":1,"docVersion":327}
+{"t":1795625495393,"file":"KeyHandler.cpp","type":"insert","rangeStart":347,"rangeEnd":347,"text":"e","textLength":1,"docVersion":328}
+{"t":1795625495545,"file":"KeyHandler.cpp","type":"insert","rangeStart":348,"rangeEnd":348,"text":"q","textLength":1,"docVersion":329}
+{"t":1795625495648,"file":"KeyHandler.cpp","type":"insert","rangeStart":349,"rangeEnd":349,"text":"u","textLength":1,"docVersion":330}
+{"t":1795625495694,"file":"KeyHandler.cpp","type":"insert","rangeStart":350,"rangeEnd":350,"text":"e","textLength":1,"docVersion":331}
+{"t":1795625495819,"file":"KeyHandler.cpp","type":"insert","rangeStart":351,"rangeEnd":351,"text":"s","textLength":1,"docVersion":332}
+{"t":1795625495893,"file":"KeyHandler.cpp","type":"insert","rangeStart":352,"rangeEnd":352,"text":"t","textLength":1,"docVersion":333}
+{"t":1795625496108,"file":"KeyHandler.cpp","type":"replace","rangeStart":353,"rangeEnd":354,"text":")","textLength":1,"docVersion":334}
+{"t":1795625496346,"file":"KeyHandler.cpp","type":"insert","rangeStart":354,"rangeEnd":354,"text":";","textLength":1,"docVersion":335}
+{"t":1795625496754,"file":"KeyHandler.cpp","type":"file-save"}
+{"t":1795625517619,"file":"DataInputHandler.hpp","type":"file-open"}
+{"t":1795625517717,"file":"DataInputHandler.hpp","type":"file-created","size":0}
+{"t":1795625525027,"file":"DataInputHandler.cpp","type":"file-open"}
+{"t":1795625525181,"file":"DataInputHandler.cpp","type":"file-created","size":0}
+{"t":1795625530532,"file":"","type":"session-end"}
