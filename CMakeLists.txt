@@ -14,6 +14,20 @@ add_executable(lab9
         CommandLineParser.hpp
         Crypto.cpp
         Crypto.hpp
+        Handler.cpp
+        Handler.hpp 
+        KeyHandler.cpp 
+        KeyHandler.hpp 
+        InputFileHandler.cpp 
+        InputFileHandler.hpp 
+        DataInputHandler.cpp
+        DataInputHandler.hpp
+        EncryptionHandler.cpp
+        EncryptionHandler.hpp
+        DecryptionHandler.cpp
+        DecryptionHandler.hpp
+        OutputHandler.cpp
+        OutputHandler.hpp
         des/DesCipher.cpp
         des/DesCipher.hpp
         des/d3des.c
