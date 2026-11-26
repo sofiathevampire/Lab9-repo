@@ -1,24 +1,26 @@
 #include "EncryptionHandler.hpp"
-#include "DesCipher.hpp"
+#include "des/DesCipher.hpp"
+
 #include <iostream>
 
 bool EncryptionHandler::handle(Request& request) {
-    std::vector<unsigned char> keyBytes(
-        request.key.begin(),
-        request.key.end()
-    );
+    // Stores the key as bytes
+    std::vector<unsigned char> keyBytes;
 
-    try {
-        request.result = Des::encrypt(
-            keyBytes,
-            *request.dataInput
-        );
+    // Copies every character from the key string into the byte vector.
+    for(int i = 0; i < request.key.size(); i++){
+        keyBytes.push_back(request.key[i]);
     }
-    catch (const std::invalid_argument& error) {
-        std::cerr << "Encryption error: "
-        << error.what()  << std::endl;
+
+    // Tries to do encryption
+    try {
+        // Encrypts the input data using the key
+        request.result = Des::encrypt(keyBytes, *request.dataInput);
+    } catch(...) {
+        std::cout << "Error during encryption." << std::endl;
         return false;
     }
 
+    // Otherwise, continue on
     return callNext(request);
 }
